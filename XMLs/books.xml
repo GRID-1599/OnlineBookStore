@@ -1,0 +1,2217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../styles.css"?>
+
+<books>
+    <!-- erish -->
+    <book ISBN="9781982112394">
+        <title>Pet Sematary</title>
+        <author>Stephen King</author>
+        <genres>
+            <genre>Horror Fiction</genre>
+        </genres>
+        <publisher>Scribner</publisher>
+        <publishedDate>2018-12-04</publishedDate>
+        <format>Hardcover</format>
+        <price>1350</price>
+        <description> When Dr. Louis Creed takes a new job and moves his family
+to the idyllic rural town of Ludlow, Maine, this new beginning seems
+too good to be true. Despite Ludlow’s tranquility, an undercurrent of
+danger exists here. Those trucks on the road outside the Creed’s
+beautiful old home travel by just a little too quickly, for one thing…
+as is evidenced by the makeshift graveyard in the nearby woods where
+generations of children have buried their beloved pets. Then there are
+the warnings to Louis both real and from the depths of his nightmares
+that he should not venture beyond the borders of this little graveyard
+where another burial ground lures with seductive promises and ungodly
+temptations. A blood-chilling truth is hidden there—one more
+terrifying than death itself, and hideously more powerful. As Louis is
+about to discover for himself sometimes, dead is better…        </description>
+        <imagePath>Images/Pet_Sematary.jpg</imagePath>
+    </book>
+    <book ISBN="9781501142970">
+        <title>It</title>
+        <author>Stephen King</author>
+        <genres>
+            <genre>Horror Fiction</genre>
+            <genre>Thriller</genre>
+            <genre>Coming-of-age</genre>
+        </genres>
+        <publisher>Scribner</publisher>
+        <publishedDate>2016-01-05</publishedDate>
+        <format>Paperback</format>
+        <price>1350</price>
+        <description> They were seven teenagers when they first stumbled upon
+the horror. Now they are grown-up men and women who have gone out into
+the big world to gain success and happiness. But the promise they made
+twenty-eight years ago calls them reunite in the same place where, as
+teenagers, they battled an evil creature that preyed on the city’s
+children. Now, children are being murdered again and their repressed
+memories of that terrifying summer return as they prepare to once
+again battle the monster lurking in Derry’s sewers.        </description>
+        <imagePath>Images/It.jpg</imagePath>
+    </book>
+    <book ISBN="9780307743657">
+        <title>The Shining</title>
+        <author>Stephen King</author>
+        <genres>
+            <genre>Horror Fiction</genre>
+            <genre>Psychological Horror</genre>
+        </genres>
+        <publisher>Penguin Random House</publisher>
+        <publishedDate>2012-06-26</publishedDate>
+        <format>Mass Market</format>
+        <price>430</price>
+        <description> Jack Torrance’s new job at the Overlook Hotel is the
+perfect chance for a fresh start. As the off-season caretaker at the
+atmospheric old hotel, he’ll have plenty of time to spend reconnecting
+with his family and working on his writing. But as the harsh winter
+weather sets in, the idyllic location feels ever more remote... and
+more sinister. And the only one to notice the strange and terrible
+forces gathering around the Overlook is Danny Torrance, a uniquely
+gifted five-year-old.        </description>
+        <imagePath>Images/The_Shining.jpg</imagePath>
+    </book>
+    <book ISBN="9780771008795">
+        <title>The Handmaid's Tale</title>
+        <author>Margaret Atwood</author>
+        <genres>
+            <genre>Dystopian Fiction</genre>
+            <genre>Speculative Fiction</genre>
+            <genre>Tragedy</genre>
+        </genres>
+        <publisher>Emblem McClelland and Stewart</publisher>
+        <publishedDate>2011-09-06</publishedDate>
+        <format>Paperback</format>
+        <price>599</price>
+        <description> In Margaret Atwood’s dystopian future, environmental
+disasters and declining birthrates have led to a Second American Civil
+War. The result is the rise of the Republic of Gilead, a totalitarian
+regime that enforces rigid social roles and enslaves the few remaining
+fertile women. Offred is one of these, a Handmaid bound to produce
+children for one of Gilead’s commanders. Deprived of her husband, her
+child, her freedom, and even her own name, Offred clings to her
+memories and her will to survive. At once a scathing satire, an
+ominous warning, and a tour de force of narrative suspense, The
+Handmaid’s Tale is a modern classic.        </description>
+        <imagePath>Images/The_Handmaid_s_Tale.jpg</imagePath>
+    </book>
+    <book ISBN="9780593314005">
+        <title>The Flight Attendant</title>
+        <author>Chris Bohjalian</author>
+        <genres>
+            <genre>Crime</genre>
+            <genre>Mystery</genre>
+            <genre>Thriller</genre>
+        </genres>
+        <publisher>Knopf US</publisher>
+        <publishedDate>2021-03-02</publishedDate>
+        <format>Paperback</format>
+        <price>764</price>
+        <description> Cassandra Bowden is no stranger to hungover mornings. She's
+a binge drinker, her job with the airline making it easy to find
+adventure, and the occasional blackouts seem to be inevitable. She
+lives with them--and the accompanying self-loathing. When she awakes
+in a Dubai hotel room, she tries to piece the previous night back
+together, counting the minutes until she has to catch her crew shuttle
+to the airport. She quietly slides out of bed, careful not to
+aggravate her already pounding head, and looks at the man she spent
+the night with. She sees his dark hair. His utter stillness. And
+blood, a slick, still wet pool on the crisp white sheets. Afraid to
+call the police--she's a single woman alone in a hotel room far from
+home--Cassie begins to lie. She lies as she joins the other flight
+attendants and pilots in the van. She lies on the way to Paris as she
+works the first class cabin. She lies to the FBI agents in New York
+who meet her at the gate. Soon it's too late to come clean-or face the
+truth about what really happened back in Dubai. Could she have killed
+him? If not, who did?  Set amid the captivating world of those whose lives unfold
+at forty thousand feet, The Flight Attendant unveils a spellbinding
+story of memory, of the giddy pleasures of alcohol and the devastating
+consequences of addiction, and of murder far from home.        </description>
+        <imagePath>Images/The_Flight_Attendant.jpg</imagePath>
+    </book>
+    <book ISBN="9780425274866">
+        <title>Big Little Lies</title>
+        <author>Liane Moriarty</author>
+        <genres>
+            <genre>Mystery</genre>
+            <genre>Psychological Fiction</genre>
+            <genre>Domestic Fiction</genre>
+        </genres>
+        <publisher>Berkley Books</publisher>
+        <publishedDate>2015-08-11</publishedDate>
+        <format>Paperback</format>
+        <price>764</price>
+        <description> Madeline is a force to be reckoned with. She’s funny,
+biting, and passionate; she remembers everything and forgives no one.
+Celeste is the kind of beautiful woman who makes the world stop and
+stare but she is paying a price for the illusion of perfection. New to
+town, single mom Jane is so young that another mother mistakes her for
+a nanny. She comes with a mysterious past and a sadness beyond her
+years. These three women are at different crossroads, but they will
+all wind up in the same shocking place.        </description>
+        <imagePath>Images/Big_Little_Lies.jpg</imagePath>
+    </book>
+    <book ISBN="9781501180996">
+        <title>The Outsider</title>
+        <author>Stephen King</author>
+        <genres>
+            <genre>Horror Fiction</genre>
+            <genre>Mystery</genre>
+            <genre>Crime</genre>
+        </genres>
+        <publisher>Pocket Books</publisher>
+        <publishedDate>2020-06-30</publishedDate>
+        <format>Mass Market</format>
+        <price>360</price>
+        <description> An eleven-year-old boy's violated corpse is discovered in
+a town park. Eyewitnesses and fingerprints point unmistakably to one
+of Flint City's most popular citizens--Terry Maitland, Little League
+coach, English teacher, husband, and father of two girls. Detective
+Ralph Anderson, whose son Maitland once coached, orders a quick and
+very public arrest. Maitland has an alibi, but Anderson and the
+district attorney soon have DNA evidence to go with the fingerprints
+and witnesses. Their case seems ironclad. As the investigation expands and horrifying details begin
+to emerge, King's story kicks into high gear, generating strong
+tension and almost unbearable suspense. Terry Maitland seems like a
+nice guy, but is he wearing another face? When the answer comes, it
+will shock you as only Stephen King can.        </description>
+        <imagePath>Images/The_Outsider.jpg</imagePath>
+    </book>
+    <book ISBN="9780316476720">
+        <title>Killing Eve: Codename Villanelle</title>
+        <author>Luke Jennings</author>
+        <genres>
+            <genre>Thriller</genre>
+            <genre>Suspense</genre>
+            <genre>Spy Fiction</genre>
+        </genres>
+        <publisher>Mulholland Books</publisher>
+        <publishedDate>2018-09-11</publishedDate>
+        <format>Paperback</format>
+        <price>769</price>
+        <description> Villanelle (a codename, of course) is one of the world's
+most skilled assassins. A catlike psychopath whose love for the
+creature comforts of her luxurious lifestyle is second only to her
+love of the game, she specializes in murdering the world's richest and
+most powerful. But when she murders an influential Russian politician,
+she draws a relentless foe to her tail. Eve Polastri (not a codename) is a former MI6 operative
+hired by the national security services for a singular task: to find
+and capture or kill the assassin responsible, and those who have aided
+her. Eve, whose quiet and otherwise unextraordinary life belies her
+quick wit and keen intellect, accepts the mission. The ensuing chase will lead them on a trail around the
+world, intersecting with corrupt governments and powerful criminal
+organizations, all leading towards a final confrontation from which
+neither will emerge unscathed. Codename Villanelle is a sleek, fastpaced international thriller from an exciting new voice in fiction.  </description>
+        <imagePath>Images/Killing_Eve_Codename_Villanelle.jpg</imagePath>
+    </book>
+    <book ISBN="9780316524346">
+        <title>Killing Eve: No Tomorrow</title>
+        <author>Luke Jennings</author>
+        <genres>
+            <genre>Thriller</genre>
+            <genre>Suspense</genre>
+            <genre>Spy Fiction</genre>
+        </genres>
+        <publisher>Mulholland Books</publisher>
+        <publishedDate>2019-03-26</publishedDate>
+        <format>Paperback</format>
+        <price>769</price>
+        <description> Eve and Villanelle plan for a high-stakes showdown in this
+sophisticated follow-up to the spy thriller that inspired the hit TV
+series Killing Eve. "If you want us to remain silent -- if you want to retain
+your freedom, your job, and your reputation -- you need to tell us
+everything, and I mean everything. . ." We last saw Eve and Villanelle in a spy vs. spy race
+around the world, crossing powerful criminal organizations and
+dangerous governments, each trying to come out on top. But they aren't
+finished yet. In this sequel to Killing Eve: Codename Villanelle, former
+M16 operativeEve reveals a new side to her strengths, while coming
+ever closer to a confrontation with Villanelle, the evasive and
+skilled assassin.        </description>
+        <imagePath>Images/Killing_Eve_No_Tomorrow.jpg</imagePath>
+    </book>
+    <book ISBN="9780316536974">
+        <title>Killing Eve: Die For Me</title>
+        <author>Luke Jennings</author>
+        <genres>
+            <genre>Thriller</genre>
+            <genre>Suspense</genre>
+            <genre>Spy Fiction</genre>
+        </genres>
+        <publisher>Mulholland Books</publisher>
+        <publishedDate>2020-04-07</publishedDate>
+        <format>Paperback</format>
+        <price>769</price>
+        <description> Though the cat and mouse chase between these two lethal
+adversaries has seemingly ended, the sophisticated, deadly thrill of
+Eve and Villanelle's relationship is far from over. Told in Jennings's
+stylish prose, Killing Eve: Endgame is another page-turning chapter inthe espionage exploits of Eve and Villanelle.        </description>
+        <imagePath>Images/Killing_Eve_Die_For_Me.jpg</imagePath>
+    </book>
+    <book ISBN="9780307341556">
+        <title>Sharp Objects</title>
+        <author>Gillian Flynn</author>
+        <genres>
+            <genre>Thriller</genre>
+            <genre>Mystery</genre>
+            <genre>Suspense</genre>
+        </genres>
+        <publisher>Random House Inc (US)</publisher>
+        <publishedDate>2007-08-01</publishedDate>
+        <format>Paperback</format>
+        <price>820</price>
+        <description> Fresh from a brief stay at a psych hospital, reporter
+Camille Preaker faces a troubling assignment: she must return to her
+tiny hometown to cover the murders of two preteen girls. For years,
+Camille has hardly spoken to her neurotic, hypochondriac mother or to
+the half-sister she barely knows: a beautiful thirteen-year-old with
+an eerie grip on the town. Now, installed in her old bedroom in her
+family's Victorian mansion, Camille finds herself identifying with the
+young victims—a bit too strongly. Dogged by her own demons, she must
+unravel the psychological puzzle of her own past if she wants to get
+the story—and survive this homecoming.        </description>
+        <imagePath>Images/Sharp_Objects.jpg</imagePath>
+    </book>
+    <book ISBN="9781984822178">
+        <title>Normal People</title>
+        <author>Sally Rooney</author>
+        <genres>
+            <genre>Literary Fiction</genre>
+        </genres>
+        <publisher>Hogarth</publisher>
+        <publishedDate>2019-04-16</publishedDate>
+        <format>Paperback</format>
+        <price>959</price>
+        <description> Connell and Marianne grew up in the same small town, but
+the similarities end there. At school, Connell is popular and well liked, while Marianne is a loner. But when the two strike up a
+conversation—awkward but electrifying—something life-changing begins. A year later, they’re both studying at Trinity College in
+Dublin. Marianne has found her feet in a new social world while
+Connell hangs at the sidelines, shy and uncertain. Throughout their
+years at university, Marianne and Connell circle one another, straying
+toward other people and possibilities but always magnetically,
+irresistibly drawn back together. And as she veers into self destruction and he begins to search for meaning elsewhere, each must
+confront how far they are willing to go to save the other. Normal People is the story of mutual fascination,
+friendship, and love. It takes us from that first conversation to the
+years beyond, in the company of two people who try to stay apart but
+find that they can’t.        </description>
+        <imagePath>Images/Normal_People.jpg</imagePath>
+    </book>
+    <book ISBN="9780571367863">
+        <title>Normal People: The Scripts</title>
+        <author>Sally Rooney</author>
+        <genres>
+            <genre>Performing Arts</genre>
+        </genres>
+        <publisher>Faber and Faber</publisher>
+        <publishedDate>2020-11-12</publishedDate>
+        <format>Paperback</format>
+        <price>1300</price>
+        <description> Connell and Marianne grow up in the same small town in the
+west of Ireland, but the similarities end there. In school, Connell is
+popular. Marianne is a loner. But when the two strike up a
+conversation, something life-changing begins. With an introduction by director Lenny Abrahamson and
+featuring iconic images from the show, Normal People: The Scripts
+contains the complete screenplays of the acclaimed Emmy- and Golden
+Globe–nominated television drama that The New York Times called “an
+unusually thoughtful and moving depiction of young people’s emotional
+lives.”</description>
+        <imagePath>Images/Normal_People_The_Scripts.jpg</imagePath>
+    </book>
+    <book ISBN="9781787017870">
+        <title>Lonely Planet USA, 11th Edition</title>
+        <author>Lonely Planet</author>
+        <genres>
+            <genre>Travel</genre>
+        </genres>
+        <publisher>Lonely Planet</publisher>
+        <publishedDate>2020-04-01</publishedDate>
+        <format>Paperback</format>
+        <price>1799</price>
+        <description> Lonely Planet's USA is your passport to the most relevant,
+up-to-date advice on what to see and skip, and what hidden discoveries
+await you. Gaze into the mile-deep chasm of the Grand Canyon, hang ten
+on an iconic Hawaiian wave, and let sultry southern music and food
+stir your soul - all with your trusted travel companion. Get to the
+heart of the USA and begin your journey now!        </description>
+        <imagePath>Images/Lonely_Planet_USA_11th_Edition.jpg</imagePath>
+    </book>
+    <book ISBN="9781787013728">
+        <title>Lonely Planet Western Europe, 14th Edition</title>
+        <author>Lonely Planet</author>
+        <genres>
+            <genre>Travel</genre>
+        </genres>
+        <publisher>Lonely Planet</publisher>
+        <publishedDate>2019-10-01</publishedDate>
+        <format>Paperback</format>
+        <price>1500</price>
+        <description> Lonely Planet's Western Europe is your passport to the most
+relevant, up-to-date advice on what to see and skip, and what hidden
+discoveries await you. Raise a glass of champagne at the top of the
+Eiffel Tower in Paris, find your own iconic London live music
+experience, and sense the ghosts of emperors past as you walk the
+cobbled streets of Rome - all with your trusted travel companion. Get
+to the heart of Western Europe and begin your journey now!        </description>
+        <imagePath>Images/Lonely_Planet_Western_Europe_14th_Edition.jpg</imagePath>
+    </book>
+    <book ISBN="9781786578525">
+        <title>Lonely Planet Pocket Kyoto and Osaka, 2nd
+Edition</title>
+        <author>Lonely Planet</author>
+        <genres>
+            <genre>Travel</genre>
+        </genres>
+        <publisher>Lonely Planet</publisher>
+        <publishedDate>2019-08-01</publishedDate>
+        <format>Paperback</format>
+        <price>840</price>
+        <description> Lonely Planet Pocket Kyoto and Osaka is your passport to
+the most relevant, up-to-date advice on what to see and skip, and what
+hidden discoveries await you. Get a panoramic view of Kyoto at
+Ginkaku-ji, catch a glimpse of geishas in the Gion district, or amble
+through the streets of Amerika-Mura -all with your trusted travel
+companion. Get to the heart of the best of Kyoto and Osaka and begin
+your journey now!        </description>
+        <imagePath>Images/Lonely_Planet_Pocket_Kyoto_and_Osaka_2nd_Edition.jpg</imagePath>
+    </book>
+    <book ISBN="9780062802798">
+        <title>World Travel: An Irreverent Guide</title>
+        <author>Anthony Bourdain</author>
+        <genres>
+            <genre>Travel</genre>
+        </genres>
+        <publisher>Harper Collins</publisher>
+        <publishedDate>2021-04-20</publishedDate>
+        <format>Hardcover</format>
+        <price>1025</price>
+        <description> A guide to some of the world’s most fascinating places, as
+seen and experienced by writer, television host, and relentlessly
+curious traveler Anthony Bourdain Anthony Bourdain saw more of the world than nearly anyone.
+His travels took him from the hidden pockets of his hometown of New
+York to a tribal longhouse in Borneo, from cosmopolitan Buenos Aires,
+Paris, and Shanghai to Tanzania’s utter beauty and the stunning desert
+solitude of Oman’s Empty Quarter—and many places beyond. In World Travel, a life of experience is collected into an
+entertaining, practical, fun and frank travel guide that gives readers
+an introduction to some of his favorite places—in his own words.
+Featuring essential advice on how to get there, what to eat, where to
+stay and, in some cases, what to avoid, World Travel provides
+essential context that will help readers further appreciate the
+reasons why Bourdain found a place enchanting and memorable.        </description>
+        <imagePath>Images/World_Travel_An_Irreverent_Guide.jpg</imagePath>
+    </book>
+    <book ISBN="9781524763145">
+        <title>Becoming</title>
+        <author>Michelle Obama</author>
+        <genres>
+            <genre>Autobiography</genre>
+            <genre>Memoir</genre>
+        </genres>
+        <publisher>Crown Publishing Group (NY)</publisher>
+        <publishedDate>2021-03-02</publishedDate>
+        <format>Paperback</format>
+        <price>911</price>
+        <description> A guide to some of the world’s most fascinating places, as
+seen and experienced by writer, television host, and relentlessly
+curious traveler Anthony Bourdain Anthony Bourdain saw more of the world than nearly anyone.
+His travels took him from the hidden pockets of his hometown of New
+York to a tribal longhouse in Borneo, from cosmopolitan Buenos Aires,
+Paris, and Shanghai to Tanzania’s utter beauty and the stunning desert
+solitude of Oman’s Empty Quarter—and many places beyond. In World Travel, a life of experience is collected into an
+entertaining, practical, fun and frank travel guide that gives readers
+an introduction to some of his favorite places—in his own words.
+Featuring essential advice on how to get there, what to eat, where to
+stay and, in some cases, what to avoid, World Travel provides
+essential context that will help readers further appreciate the
+reasons why Bourdain found a place enchanting and memorable.        </description>
+        <imagePath>Images/Becoming.jpg</imagePath>
+    </book>
+    <book ISBN="9781416553656">
+        <title>Born Standing Up</title>
+        <author>Steve Martin</author>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Memoir</genre>
+            <genre>Comedy</genre>
+        </genres>
+        <publisher>Simon and Schuster Trade</publisher>
+        <publishedDate>2008-09-02</publishedDate>
+        <format>Paperback</format>
+        <price>400</price>
+        <description> In the mid-seventies, Steve Martin exploded onto the
+comedy scene. By 1978 he was the biggest concert draw in the history
+of stand-up. In 1981 he quit forever. This book is, in his own words,
+the story of “why I did stand-up and why I walked away.” Emmy and Grammy Award–winner, author of the acclaimed New
+York Times bestsellers Shopgirl and The Pleasure of My Company, and a
+regular contributor to The New Yorker, Martin has always been a
+writer. His memoir of his years in stand-up is candid, spectacularly
+amusing, and beautifully written.        </description>
+        <imagePath>Images/Born_Standing_Up.jpg</imagePath>
+    </book>
+    <book ISBN="9780847862344">
+        <title>Bruce Springsteen: From Asbury Park, to Born To Run, to
+Born In The USA</title>
+        <author>David Gahr</author>
+        <genres>
+            <genre>Biography</genre>
+            <genre>Memoir</genre>
+        </genres>
+        <publisher>Rizzoli</publisher>
+        <publishedDate>2018-04-01</publishedDate>
+        <format>Hardcover</format>
+        <price>2155</price>
+        <description> An unprecedented look at a very young Bruce Springsteen
+and the E Street Band, from the group’s creation and early New Jersey
+days to their meteoric rise and seminal Born in the USA tour, in
+photographs almost all not previously published. David Gahr (1922–2008) was tapped by Columbia Records
+designer John Berg to shoot cover art for Bruce Springsteen’s second
+album, The Wild, the Innocent and the E Street Shuffle. Gahr’s
+earliest photographs of the musician showcase a youthful Springsteen,
+not even aged twenty-three, in Asbury Park, New Jersey, on the eve of
+a career breakthrough. Gahr befriended the rising star, and over a
+span of approximately ten years he photographed Springsteen, both on and offstage. Rare captures include Springsteen recording music,
+performing at the cramped venue Bottom Line weeks before the release
+of his seminal 1975 album Born to Run, and playing to legions of fans
+during his Born in the USA tour. Bruce Springsteen 1973–1986 is an
+unprecedented look back at Bruce Springsteen and the E Street Band on
+their path to becoming rock legends.        </description>
+        <imagePath>Images/Bruce_Springsteen_From_Asbury_Park_to_Born_To_Run_to_Born_In_The_USA.jpg</imagePath>
+    </book>
+    <book ISBN="9781419732416">
+        <title>I Can Cook Vegan</title>
+        <author>Isa Chandra Moskowitz</author>
+        <genres>
+            <genre>Cookbook</genre>
+            <genre>Diet Book</genre>
+        </genres>
+        <publisher>Abrams</publisher>
+        <publishedDate>2019-11-01</publishedDate>
+        <format>Hardcover</format>
+        <price>1650</price>
+        <description> From Isa Chandra Moskowitz—the bestselling author
+ofVeganomicon—comes a book dedicated to her true love: the home cook.
+Isa Moskowitz learned to cook from cookbooks, recipe by recipe. And
+after a few decades of writing her own cookbooks, she knows what the
+people want: easy-to-follow instructions and accessible ingredients. I
+Can Cook Veganis for cooks of all stripes: The Just-Born, Brand New Cook The Tried-and-True Seasoned
+Cook Who Is Tofu-Curious The Busy Weeknight Pantry Cook (this is
+everyone) The Farmers’ Market Junkie Who Looks at All the Pretty
+Colors The Reluctant Parent to the Vegan Child For Anyone Doing Vegan
+for the Animals For Anyone Doing Vegan for the Health Each chapter is
+a building block to becoming a better, more competent cook. The book teaches readers to cook the way someone might
+learn a new instrument: master a couple of chords, and then start to
+put them together to form songs. Each chapter starts with a fresh
+mission, and readers will cook their way through pastas, salads,
+sandwiches, bowls, sautés, sheet-pan suppers, and sweets—more than 125
+recipes!—until they are ultimately the Best Cook Imaginable.        </description>
+        <imagePath>Images/I_Can_Cook_Vegan.jpg</imagePath>
+    </book>
+
+    <!-- aeron -->
+
+
+    <book ISBN="9781984806758">
+        <title>People We Meet on Vacation</title>
+        <author>Emily Henry </author>
+        <genres>
+            <genre>Romance Novel</genre>
+            <genre>Contemporary Romance</genre>
+            <genre>Adult Fiction</genre>
+            <genre>Coming of age story</genre>
+            <genre>Humorous Fiction</genre>
+            <genre>Domestic Fiction</genre>
+            <genre>Holiday Fiction</genre>
+        </genres>
+        <publisher>Berkley Books</publisher>
+        <publishedDate>2021-11-05</publishedDate>
+        <format>Paperback</format>
+        <price>499</price>
+        <description>Poppy and Alex. Alex and Poppy. They have nothing
+in common. She’s a wild child; he wears khakis. She has insatiable
+wanderlust; he prefers to stay home with a book. And somehow, ever
+since a fateful car share home from college many years ago, they are
+the very best of friends. For most of the year they live far apart—
+she’s in New York City, and he’s in their small hometown—but every
+summer, for a decade, they have taken one glorious week of vacation
+together. Until two years ago, when they ruined everything. They
+haven’t spoken since. Poppy has everything she should want, but she’s
+stuck in a rut. When someone asks when she was last truly happy, she
+knows, without a doubt, it was on that ill-fated, final trip with
+Alex. And so, she decides to convince her best friend to take one more
+vacation together—lay everything on the table, make it all right.
+Miraculously, he agrees. Now she has a week to fix everything. If only
+she can get around the one big truth that has always stood quietly in
+the middle of their seemingly perfect relationship. What could
+possibly go wron</description>
+        <imagePath>Images/People_We_Meet_on_Vacation.jpg</imagePath>
+    </book>
+    <book ISBN="9781982123963">
+        <title>The Soulmate Equation</title>
+        <author>Christina Lauren</author>
+        <genres>
+            <genre>Romance Novel</genre>
+            <genre>Humour</genre>
+            <genre>Humorous Fiction</genre>
+        </genres>
+        <publisher>Gallery Books</publisher>
+        <publishedDate>2021-18-05</publishedDate>
+        <format>Hardcover</format>
+        <price>1300</price>
+        <description>Single mom Jess Davis is a data and statistics
+wizard, but no amount of number crunching can convince her to step
+back into the dating world. Raised by her grandparents--who now help
+raise her seven-year-old daughter, Juno--Jess has been left behind too
+often to feel comfortable letting anyone in. After all, her father's
+never been around, her hard-partying mother disappeared when she wassix, and her ex decided he wasn't "father material" before Juno was
+even born. Jess holds her loved ones close, but working constantly to
+stay afloat is hard...and lonely. But then Jess hears about
+GeneticAlly, a buzzy new DNA-based matchmaking company that's
+predicted to change dating forever. Finding a soulmate through DNA?
+The reliability of numbers: This Jess understands. At least she
+thought she did, until her test shows an unheard-of 98% compatibility
+with another subject in the database: GeneticAlly's founder, Dr. River
+Pena. This is one number she can't wrap her head around, because she
+already knows Dr. Pena. The stuck-up, stubborn man is without a doubt
+not her soulmate. But GeneticAlly has a proposition: Get to know him
+and we'll pay you. Jess--who is barely making ends meet--is in no
+position to turn it down, despite her skepticism about the project and
+her dislike for River. As the pair are dragged from one event to the
+next as the "Diamond" pairing that could make GeneticAlly a mint in
+stock prices, Jess begins to realize that there might be more to the
+scientist--and the science behind a soulmate--than she thought.
+        </description>
+        <imagePath>Images/The_Soulmate_Equation.jpg</imagePath>
+    </book>
+    <book ISBN="9781335209979">
+        <title>Counting Down with You</title>
+        <author>Tashie Bhuiyan</author>
+        <genres>
+            <genre>Young Adult Fiction</genre>
+            <genre>Romance Novel</genre>
+        </genres>
+        <publisher>Inkyard Press</publisher>
+        <publishedDate>2021-04-05</publishedDate>
+        <format>Hardcover</format>
+        <price>750</price>
+        <description>A reserved Bangladeshi teenager has twenty-eight
+days to make the biggest decision of her life after agreeing to fake
+date her school’s resident bad boy. How do you make one month last a
+lifetime? Karina Ahmed has a plan. Keep her head down, get through
+high school without a fuss, and follow her parents’ rules—even if it
+means sacrificing her dreams. When her parents go abroad to Bangladesh
+for four weeks, Karina expects some peace and quiet. Instead, one
+simple lie unravels everything. Karina is my girlfriend. Tutoring the
+school’s resident bad boy was already crossing a line. Pretending to
+date him? Out of the question. But Ace Clyde does everything right—he
+brings her coffee in the mornings, impresses her friends without
+trying, and even promises to buy her a dozen books (a week) if she
+goes along with his fake-dating facade. Though Karina agrees, she
+can’t help but start counting down the days until her parents come
+back.</description>
+        <imagePath>Images/Counting_Down_with_You.jpg</imagePath>
+    </book>
+    <book ISBN="9780063036857">
+        <title>Just Last Night</title>
+        <author>Mhairi McFarlane </author>
+        <genres>
+            <genre>Fiction</genre>
+            <genre>Romance Novel</genre>
+            <genre>Contemporary Romance</genre>
+        </genres>
+        <publisher>William Morrow Paperbacks</publisher>
+        <publishedDate>2021-04-05</publishedDate>
+        <format>Paperback</format>
+        <price>700</price>
+        <description>Eve, Justin, Susie, and Ed have been friends
+since they were teenagers. Now in their thirties, the four are as
+close as ever, Thursday pub trivia night is sacred, and Eve is still
+secretly in love with Ed. Maybe she should have moved on by now, but
+she can’t stop thinking about what could have been. And she knows Ed
+still thinks about it, too. But then, in an instant, their lives are
+changed forever. In the aftermath, Eve’s world is upended. As stunning
+secrets are revealed, she begins to wonder if she really knew her
+friends as well as she thought. And when someone from the past comes
+back into her life, Eve’s future veers in a surprising new direction.
+        </description>
+        <imagePath>Images/Just_Last_Night.jpg</imagePath>
+    </book>
+    <book ISBN="9781481498982">
+        <title>Take Me Home Tonight</title>
+        <author>Morgan Matson</author>
+        <genres>
+            <genre>Young adult fiction</genre>
+        </genres>
+        <publisher>Simon Schuster Books for Young Readers</publisher>
+        <publishedDate>2021-04-05</publishedDate>
+        <format>Hardcover</format>
+        <price>450</price>
+        <description>Ferris Bueller’s Day Off meets Nick and Nora’s
+Infinite Playlist in this romp through the city that never sleeps from
+the New York Times bestselling author of Since You’ve Been Gone,
+Morgan Matson. Two girls. One night. Zero phones. Kat and Stevie—best
+friends, theater kids, polar opposites—have snuck away from the
+suburbs to spend a night in New York City. They have it all planned
+out. They’ll see a play, eat at the city’s hottest restaurant, and
+have the best. Night. Ever. What could go wrong? Well. Kind of a lot?
+They’re barely off the train before they’re dealing with destroyed
+phones, family drama, and unexpected Pomeranians. Over the next few
+hours, they’ll have to grapple with old flames, terrible theater, and
+unhelpful cab drivers. But there are also cute boys to kiss, parties
+to crash, dry cleaning to deliver (don’t ask), and the world’s best
+museum to explore. Over the course of a wild night in the city that
+never sleeps, both Kat and Stevie will get a wake-up call about their
+friendship, their choices…and finally discover what they really want
+for their future.</description>
+        <imagePath>Images/Take_Me_Home_Tonight.jpg</imagePath>
+    </book>
+    <book ISBN="9781250795793">
+        <title>The Secret Bridesmaid</title>
+        <author>Katy Birchall</author>
+        <genres>
+            <genre>Fiction</genre>
+            <genre>Romance Novel</genre>
+            <genre>Humour</genre>
+        </genres>
+        <publisher>St. Martin's Griffin</publisher>
+        <publishedDate>2021-04-05</publishedDate>
+        <format>Paperback</format>
+        <price>700</price>
+        <description>Matrimony meets mayhem in a modern British romcom
+about a young woman charged with pulling off the biggest aristocratic
+wedding of the year––and the misadventures that ensue. Sophie Breeze
+is a brilliant bridesmaid. So brilliant, in fact, that she’s made it
+her full-time job. As a professional bridesmaid, Sophie is hired by
+London brides to be their right-hand woman, posing as a friend but
+working behind the scenes to help plan the perfect wedding and ensure
+their big day goes off without a hitch. When she’s hired by Lady
+Victoria Swann––a former model and “It Girl" of 1970’s London; now the
+Marchioness of Meade––for the society wedding of the year, it should
+be a chance for Sophie to prove just how talented she is. Of course,
+it’s not ideal that the bride, Lady Victoria’s daughter, Cordelia, is
+an absolute diva and determined to make Sophie’s life a nightmare.
+It’s also a bit inconvenient that Sophie finds herself drawn to
+Cordelia’s posh older brother, who is absolutely off limits. But when
+a rival society wedding is announced for the very same day, things
+start to get…well, complicated. Can Sophie pull off the biggest
+challenge of her career––execute a high-profile gala for four hundred
+and fifty guests in record time, win over a reluctant bride, and catch
+the eye of handsome Lord Swann––all while keeping her true identity a
+secret, and her dignity intact?</description>
+        <imagePath>Images/The_Secret_Bridesmaid.jpg</imagePath>
+    </book>
+    <book ISBN="9781250765826">
+        <title>Cool for the Summer</title>
+        <author>Dahlia Adler</author>
+        <genres>
+            <genre>Young adult fiction</genre>
+        </genres>
+        <publisher>Wednesday Books</publisher>
+        <publishedDate>2021-11-05</publishedDate>
+        <format>Hardcover</format>
+        <price>750</price>
+        <description>Lara's had eyes for exactly one person throughout
+her three years of high school: Chase Harding. He's tall, strong,
+sweet, a football star, and frankly, stupid hot. Oh, and he's talking
+to her now. On purpose and everything. Maybe...flirting, even? No,
+wait, he's definitely flirting, which is pretty much the sum of
+everything Lara's wanted out of life. Except she’s haunted by a
+memory. A memory of a confusing, romantic, strangely perfect summer
+spent with a girl named Jasmine. A memory that becomes a confusing,
+disorienting present when Jasmine herself walks through the front
+doors of the school to see Lara and Chase chatting it up in front of
+the lockers. Lara has everything she ever wanted: a tight-knit group
+of friends, a job that borders on cool, and Chase, the boy of her
+literal dreams. But if she's finally got the guy, why can't she stop
+thinking about the girl?</description>
+        <imagePath>Images/Cool_for_the_Summer.jpg</imagePath>
+    </book>
+    <book ISBN="9780063038837">
+        <title>Meet Cute Diary</title>
+        <author>Emery Lee</author>
+        <genres>
+            <genre>Young adult fiction</genre>
+        </genres>
+        <publisher>Quill Tree Books</publisher>
+        <publishedDate>2021-04-05</publishedDate>
+        <format>Hardcover</format>
+        <price>750</price>
+        <description>Felix Ever After meets Becky Albertalli in this
+swoon-worthy, heartfelt rom-com about how a transgender teen’s first
+love challenges his ideas about perfect relationships. Noah Ramirez
+thinks he’s an expert on romance. He has to be for his popular blog,
+the Meet Cute Diary, a collection of trans happily ever afters.
+There’s just one problem—all the stories are fake. What started as the
+fantasies of a trans boy afraid to step out of the closet has grown
+into a beacon of hope for trans readers across the globe. When a troll
+exposes the blog as fiction, Noah’s world unravels. The only way to
+save the Diary is to convince everyone that the stories are true, but
+he doesn’t have any proof. Then Drew walks into Noah’s life, and the
+pieces fall into place: Drew is willing to fake-date Noah to save the
+Diary. But when Noah’s feelings grow beyond their staged romance, he
+realizes that dating in real life isn’t quite the same as finding love
+on the page.</description>
+        <imagePath>Images/Meet_Cute_Diary.jpg</imagePath>
+    </book>
+    <book ISBN="9781534467620">
+        <title>Better Than the Movies</title>
+        <author>Lynn Painter</author>
+        <genres>
+            <genre>Young adult fiction</genre>
+        </genres>
+        <publisher>Simon and Schuster Books for Young
+Readers</publisher>
+        <publishedDate>2021-04-05</publishedDate>
+        <format>Hardcover</format>
+        <price>750</price>
+        <description>Liz Buxbaum has always known that Wes Bennett was
+not boyfriend material. You would think that her next-door neighbor
+would be a prince candidate for her romantic comedy fantasies, but Wes
+has only proven himself to be a pain in the butt, ever since they were
+little. Wes was the kid who put a frog in her Barbie Dreamhouse, the
+monster who hid a lawn gnome's severed head in her little homemade
+neighborhood book exchange. Flash forward ten years from the Great
+Gnome Decapitation. It's Liz's senior year, a time meant to be rife
+with milestones perfect for any big screen, and she needs Wes's help.
+See, Liz's forever crush, Michael, has just moved back to town, and—
+horribly, annoyingly—he's hitting it off with Wes. Meaning that if Liz
+wants Michael to finally notice her, and hopefully be her prom date,
+she needs Wes. He's her in. But as Liz and Wes scheme to get Liz hermagical prom moment, she's shocked to discover that she actually likes
+being around Wes. And as they continue to grow closer, she must
+reexamine everything she thought she knew about love—and rethink her
+own perception of what Happily Ever After should really look like.
+        </description>
+        <imagePath>Images/Better_Than_the_Movies.jpg</imagePath>
+    </book>
+    <book ISBN="9781982133191">
+        <title>It Had to Be You</title>
+        <author>Georgia Clark</author>
+        <genres>
+            <genre>Romance Novel</genre>
+            <genre>Urban Fiction</genre>
+        </genres>
+        <publisher>Atria/Emily Bestler Books</publisher>
+        <publishedDate>2021-04-05</publishedDate>
+        <format>Paperback</format>
+        <price>700</price>
+        <description>The author of the novel The Bucket List returns
+with a witty and heartfelt romantic comedy featuring a wedding
+planner, her unexpected business partner, and their coworkers in a
+series of linked love stories—perfect for fans of Christina Lauren and
+Casey McQuiston. For the past twenty years, Liv and Eliot Goldenhorn
+have run In Love in New York, Brooklyn’s beloved wedding-planning
+business. When Eliot dies unexpectedly, he even more unexpectedly
+leaves half of the business to his younger, blonder girlfriend,
+Savannah. Liv and Savannah are not a match made in heaven, to say the
+least. But what starts as a personal and professional nightmare
+transforms into something even savvy, cynical Liv Goldenhorn couldn’t
+begin to imagine.</description>
+        <imagePath>Images/It_Had_to_Be_You.jpg</imagePath>
+    </book>
+    <book ISBN="9780385546577">
+        <title>While Justice Sleeps</title>
+        <author>Stacey Abrams</author>
+        <genres>
+            <genre>Thriller</genre>
+            <genre>Suspense</genre>
+            <genre>Political Thriller</genre>
+            <genre>Political Fiction</genre>
+            <genre>Legal Thriller</genre>
+        </genres>
+        <publisher>Doubleday</publisher>
+        <publishedDate>2021-11-05</publishedDate>
+        <format>Hardcover</format>
+        <price>1100</price>
+        <description>Avery Keene, a brilliant young law clerk for the
+legendary Justice Howard Wynn, is doing her best to hold her life
+together--excelling in an arduous job with the court while also
+dealing with a troubled family. When the shocking news breaks that
+Justice Wynn--the cantankerous swing vote on many current high-profile
+cases--has slipped into a coma, Avery's life turns upside down. She is
+immediately notified that Justice Wynn has left instructions for herto serve as his legal guardian and power of attorney. Plunged into an
+explosive role she never anticipated, Avery finds that Justice Wynn
+had been secretly researching one of the most controversial cases
+before the court--a proposed merger between an American biotech
+company and an Indian genetics firm, which promises to unleash
+breathtaking results in the medical field. She also discovers that
+Wynn suspected a dangerously related conspiracy that infiltrates the
+highest power corridors of Washington. As political wrangling ensues
+in Washington to potentially replace the ailing judge whose life and
+survival Avery controls, she begins to unravel a carefully
+constructed, chesslike sequence of clues left behind by Wynn. She
+comes to see that Wynn had a much more personal stake in the
+controversial case and realizes his complex puzzle will lead her
+directly into harm's way in order to find the truth. While Justice
+Sleeps is a cunningly crafted, sophisticated novel, layered with
+myriad twists and a vibrant cast of characters. Drawing on her astute
+inside knowledge of the court and political landscape, Stacey Abrams
+shows herself to be not only a force for good in politics and voter
+fairness but also a major new talent in suspense fiction.
+        </description>
+        <imagePath>Images/While_Justice_Sleeps.jpg</imagePath>
+    </book>
+    <book ISBN="9781982159214">
+        <title>Six Weeks to Live</title>
+        <author>Catherine McKenzie </author>
+        <genres>
+            <genre>Fiction</genre>
+            <genre>Mystery</genre>
+            <genre>Thriller</genre>
+            <genre>Psychological Thriller</genre>
+        </genres>
+        <publisher>Atria Books</publisher>
+        <publishedDate>2021-04-05</publishedDate>
+        <format>Hardcover</format>
+        <price>1150</price>
+        <description>A gripping psychological suspense novel about a
+woman diagnosed with cancer who sets out to discover if someone
+poisoned her before her time is up. Jennifer Barnes never expected the
+shocking news she received at a routine doctor’s appointment: she has
+a terminal brain tumor—and only six weeks left to live. While stunned
+by the diagnosis, the forty-eight-year-old mother decides to spend
+what little time she has left with her family—her adult triplets and
+twin grandsons—close by her side. But when she realizes she was
+possibly poisoned a year earlier, she’s determined to discover who
+might have tried to get rid of her before she’s gone for good.
+Separated from her husband and with a contentious divorce in progress,
+Jennifer focuses her suspicions on her soon-to-be ex. Meanwhile, her
+daughters are each processing the news differently. Calm medical
+student Emily is there for whatever Jennifer needs. Moody scientist
+Aline, who keeps her mother at arm’s length, nonetheless agrees to
+help with the investigation. Even imprudent Miranda, who has recently
+had to move back home, is being unusually solicitous.</description>
+        <imagePath>Images/Six_Weeks_to_Live.jpg</imagePath>
+    </book>
+    <book ISBN="9781250272041">
+        <title>Madam</title>
+        <author>Phoebe Wynne</author>
+        <genres>
+            <genre>Thriller</genre>
+            <genre>Historical Fiction</genre>
+            <genre>Gothic Fiction</genre>
+        </genres>
+        <publisher>St. Martin's Press</publisher>
+        <publishedDate>2021-18-05</publishedDate>
+        <format>Hardcover</format>
+        <price>1100</price>
+        <description>For 150 years, high above rocky Scottish cliffs,
+Caldonbrae Hall has sat untouched, a beacon of excellence in an old
+ancestral castle. A boarding school for girls, it promises that the
+young women lucky enough to be admitted will emerge “resilient and
+ready to serve society.” Into its illustrious midst steps Rose
+Christie: a 26-year-old Classics teacher, Caldonbrae’s new head of the
+department, and the first hire for the school in over a decade. At
+first, Rose is overwhelmed to be invited into this institution, whose
+prestige is unrivaled. But she quickly discovers that behind the
+school’s elitist veneer lies an impenetrable, starkly traditional
+culture that she struggles to reconcile with her modernist beliefs—not
+to mention her commitment to educating “girls for the future.” It also
+doesn’t take long for Rose to suspect that there’s more to the secret
+circumstances surrounding the abrupt departure of her predecessor—a
+woman whose ghost lingers everywhere—than anyone is willing to let on.
+In her search for this mysterious former teacher, Rose instead
+uncovers the darkness that beats at the heart of Caldonbrae, forcing
+her to confront the true extent of the school’s nefarious purpose, and
+her own role in perpetuating it. A darkly feminist tale pitched
+against a haunting backdrop, and populated by an electrifying cast of
+heroines, Madam will keep readers engrossed until the breathtaking
+conclusion.</description>
+        <imagePath>Images/Madam.jpg</imagePath>
+    </book>
+    <book ISBN="9780593303702">
+        <title>The Ivies</title>
+        <author>Alexa Donne</author>
+        <genres>
+            <genre>Mystery</genre>
+            <genre>Young adult fiction</genre>
+        </genres>
+        <publisher>Crown</publisher>
+        <publishedDate>2021-25-05</publishedDate>
+        <format>Hardcover</format>
+        <price>750</price>
+        <description>Everyone knows the Ivies: the most coveted
+universities in the United States. Far more important are the Ivies.
+The Ivies at Claflin Academy, that is. Five girls with the same
+mission: to get into the Ivy League by any means necessary. I would
+know. I’m one of them. We disrupt class ranks, club leaderships, and
+academic competitions…among other things. We improve our own odds by
+decreasing the fortunes of others. Because hyper-elite competitivecollege admissions is serious business. And in some cases, it’s
+deadly. Alexa Donne delivers a nail-biting and timely thriller about
+teens who will stop at nothing to get into the college of their
+dreams. Too bad no one told them murder isn’t an extracurricular.
+        </description>
+        <imagePath>Images/The_Ivies.jpg</imagePath>
+    </book>
+    <book ISBN="9781642937091">
+        <title>Ruby Falls</title>
+        <author>Deborah Goodrich Royce</author>
+        <genres>
+            <genre>Thriller</genre>
+            <genre>Mystery</genre>
+            <genre>Suspense</genre>
+            <genre>Gothic Fiction</genre>
+            <genre>Psychological Fiction</genre>
+        </genres>
+        <publisher>Post Hill Press</publisher>
+        <publishedDate>2021-04-05</publishedDate>
+        <format>Hardcover</format>
+        <price>1350</price>
+        <description>On a brilliantly sunny July day, six-year-old
+Ruby is abandoned by her father in the suffocating dark of a Tennessee
+cave. Twenty years later, transformed into soap opera star Eleanor
+Russell, she is fired under dubious circumstances. Fleeing to Europe,
+she marries a glamorous stranger named Orlando Montague and keeps her
+past closely hidden. Together, Eleanor and Orlando start afresh in LA.
+Setting up house in a storybook cottage in the Hollywood Hills,
+Eleanor is cast in a dream role—the lead in a remake of Rebecca. As
+she immerses herself in that eerie gothic tale, Orlando’s personality
+changes, ghosts of her past re-emerge, and Eleanor fears she is not
+the only person in her marriage with a secret. In this thrilling and
+twisty homage to Daphne du Maurier’s Rebecca, the story ricochets
+through the streets of Los Angeles, a dangerous marriage to an exotic
+stranger, and the mind of a young woman whose past may not release
+her.</description>
+        <imagePath>Images/Ruby_Falls.jpg</imagePath>
+    </book>
+    <book ISBN="9780063041929">
+        <title>The Anatomy of Desire</title>
+        <author>L.R. Dorn</author>
+        <genres>
+            <genre>Thriller</genre>
+            <genre>Suspense</genre>
+            <genre>Psychological Thriller</genre>
+        </genres>
+        <publisher>William Morrow</publisher>
+        <publishedDate>2021-11-05</publishedDate>
+        <format>Hardcover</format>
+        <price>1200</price>
+        <description>Claire Griffith seems to have it all, a thriving
+career, a gorgeous, successful boyfriend, a glamorous circle of
+friends. She always knew she was destined for more than the life herdeeply conservative parents preached to her. Arriving in Los Angeles
+as a flat broke teenager, she has risen to become a popular fitness
+coach and social media influencer. Having rebranded herself as Cleo
+Ray, she stands on the threshold of achieving her most cherished
+dreams. One summer day, Cleo and a young woman named Beck Alden set
+off in a canoe on a quiet, picture-perfect mountain lake. An hour
+later, Beck is found dead in the water, her face cut and bruised, and
+Cleo is missing. Authorities suspect foul play and news about Cleo’s
+involvement goes viral. Who was Beck and what was the nature of her
+and Cleo’s relationship? Was Beck an infatuated follower who took
+things too far? If Cleo is innocent, why did she run? Was it an
+accident? Or was it murder? As evidence of Cleo’s secret life
+surfaces, the world begins to see just how hard she strived to get to
+the top— and how fast and far the fall is from celebrity to infamy. L.
+R. Dorn’s reimagining of Theodore Dreiser’s novel, told in the form of
+a true crime docuseries a la Serial and The Jinx—with characters
+speaking through the “transcripts” of recorded interviews—The Anatomy
+of Desire exposes the ambition, sexual passion, and dark side of
+success that readers will find as achingly poignant as they did a
+century ago.</description>
+        <imagePath>Images/The_Anatomy_of_Desire.jpg</imagePath>
+    </book>
+    <book ISBN="9780316505444">
+        <title>The Quiet Boy</title>
+        <author>Ben H. Winters</author>
+        <genres>
+            <genre>Mystery</genre>
+            <genre>Thriller</genre>
+            <genre>Literary Fiction</genre>
+        </genres>
+        <publisher>Mulholland Books</publisher>
+        <publishedDate>2021-18-05</publishedDate>
+        <format>Hardcover</format>
+        <price>1150</price>
+        <description>Wesley Keener lies in bed: not dead, not alive,
+not in a coma or vegetative state, but simply frozen at an unchanging
+16 years old, the forward course of his existence having simply
+stopped midway through sophomore year. His condition is the result of
+something called Syndrome J, an extraordinarily rare neurological
+event, at least according to the brilliant young neurologist Anna
+Pileggi. When Wes was first hospitalized, his parents Beth and David
+Keener hired acclaimed PI Jay Shenk to help find answers about the
+illness that befell their beloved son. Now, years later, when David is
+accused of murdering the brilliant young doctor who served as expert
+witness in the hospital case, Shenk and his son Ruben discover that
+this standard malpractice suit is part of something more sinister than
+anyone imagined. An alternate explanation, brought forth by a
+mysterious older man, suggests an inter-dimensional entity wrecking
+havoc on the community. The child is not a prisoner, this stranger
+insists, he is a prison. Told from alternating perspectives, The Quiet
+Boy explores the tensions between justice and compassion, in heart pounding prose. With clever plotting, and a knack for character,
+Winters expertly weaves a group of misfits together in a race to save
+themselves, and an innocent life.</description>
+        <imagePath>Images/The_Quiet_Boy.jpg</imagePath>
+    </book>
+    <book ISBN=" 9780062915894">
+        <title>Ophie's Ghosts</title>
+        <author>Justina Ireland</author>
+        <genres>
+            <genre>Mystery</genre>
+            <genre>Ghost Story</genre>
+            <genre>Paranormal Fiction</genre>
+        </genres>
+        <publisher>Balzer + Bray</publisher>
+        <publishedDate>2021-18-05</publishedDate>
+        <format>Hardcover</format>
+        <price>700</price>
+        <description>The New York Times bestselling author of Dread
+Nation makes her middle grade debut with a sweeping tale of the ghosts
+of our past that won't stay buried, starring an unforgettable girl
+named Ophie. Ophelia Harrison used to live in a small house in the
+Georgia countryside. But that was before the night in November 1922,
+and the cruel act that took her home and her father from her. Which
+was the same night that Ophie learned she can see ghosts. Now Ophie
+and her mother are living in Pittsburgh with relatives they barely
+know. In the hopes of earning enough money to get their own place,
+Mama has gotten Ophie a job as a maid in the same old manor house
+where she works. Daffodil Manor, like the wealthy Caruthers family who
+owns it, is haunted by memories and prejudices of the past--and, as
+Ophie discovers, ghosts as well. Ghosts who have their own loves and
+hatreds and desires, ghosts who have wronged others and ghosts who
+have themselves been wronged. And as Ophie forms a friendship with one
+spirit whose life ended suddenly and unjustly, she wonders if she
+might be able to help--even as she comes to realize that Daffodil
+Manor may hold more secrets than she bargained for.</description>
+        <imagePath>Images/Ophie_s_Ghosts.jpg</imagePath>
+    </book>
+    <book ISBN="9780062691750">
+        <title>Long Lost</title>
+        <author>Jacqueline West</author>
+        <genres>
+            <genre>Novel</genre>
+            <genre>Thriller</genre>
+            <genre>Fiction</genre>
+            <genre>Mystery</genre>
+            <genre>Suspense</genre>
+        </genres>
+        <publisher>Greenwillow Books</publisher>
+        <publishedDate>2021-11-05</publishedDate>
+        <format>Hardcover</format>
+        <price>700</price>
+        <description>When Fiona’s family moves to be closer to her
+older sister’s figure skating club—and far from Fiona’s close-knit
+group of friends—nobody seems to notice Fiona’s unhappiness. Alone and
+out of place, Fiona ventures to the town’s library, a rambling mansion
+donated to the town by the long-dead heiress. And there she finds a
+gripping mystery novel about a small town, family secrets, and atragic disappearance. Soon Fiona begins to notice strange similarities
+that blur the lines between the novel and her new town. And when she
+looks for the book again, it’s gone. Almost like it never existed.
+With stubbornness and a little help from a few odd Lost Lake locals,
+Fiona uncovers the book’s strange history. It’s not a novel, but the
+true story of an unsolved century-old crime filled with clues to the
+mystery. Lost Lake is a town of restless spirits, and Fiona will learn
+that both help and danger come from unexpected places—maybe even the
+sister she thinks doesn’t care about her anymore.</description>
+        <imagePath>Images/Long_Lost.jpg</imagePath>
+    </book>
+    <book ISBN="9781613162200">
+        <title>Finding Tessa</title>
+        <author>Jaime Lynn Hendricks</author>
+        <genres>
+            <genre>Thriller</genre>
+            <genre>Suspense</genre>
+            <genre>Psychological Thriller</genre>
+            <genre>Psychological Fiction</genre>
+            <genre>Noir Fiction</genre>
+            <genre>Crime Fiction</genre>
+        </genres>
+        <publisher>Scarlet</publisher>
+        <publishedDate>2021-11-05</publishedDate>
+        <format>Hardcover</format>
+        <price>1100</price>
+        <description>Jace and Tessa appear to be a young couple in
+love with nothing to hide. But looks can be deceiving. When Jace
+Montgomery comes home late from entertaining clients, he discovers
+that his wife Tessa is missing. There’s broken glass at the back door.
+Clumps of her hair. Blood. The cops in their small New Jersey town
+have him pegged as a suspect, especially after he explodes at a
+reporter during a press conference. Jace maintains his innocence
+despite the mounting evidence against him, but when a coworker he's
+accused of having an affair with also disappears and a search warrant
+turns up an illegal gun in Jace’s home, all signs point to him as the
+culprit. What is he really hiding? Meanwhile, Tessa finally feels
+safe, having set up her husband to take the fall for her disappearance
+—and someone close to him is helping her put him away. Breaking her
+lifelong pattern of bad men is only one hurdle she has to overcome.
+The other is outrunning her secret past while trying to stay alive,
+especially when those in her new life aren’t who they appear to be.
+Jace’s lies don't add up and the authorities are closing in. Will
+Tessa’s old life catch up to her and drag her back to a life of abuse
+before justice is served? Finding Tessa is a smart domestic thriller
+where nothing can be taken at face value, where every twist reveals a
+deadlier secret than the one before. Fans of Gillian Flynn, Samantha
+Downing, and incisive, fresh psychological suspense won't want to miss
+it.</description>
+        <imagePath>Images/Finding_Tessa.jpg</imagePath>
+    </book>
+    <book ISBN="9780385542432">
+        <title>Hour of the Witch</title>
+        <author>Chris Bohjalian</author>
+        <genres>
+            <genre>Mystery</genre>
+            <genre>Historical Fiction</genre>
+            <genre>Thriller</genre>
+            <genre>Suspense</genre>
+            <genre>Romance Novel</genre>
+            <genre>Psychological Thriller</genre>
+            <genre>Domestic Fiction</genre>
+        </genres>
+        <publisher>Doubleday Books</publisher>
+        <publishedDate>2021-04-05</publishedDate>
+        <format>Hardcover</format>
+        <price>700</price>
+        <description>Boston, 1662. Mary Deerfield is twenty-four years-old. Her skin is porcelain, her eyes delft blue, and in England
+she might have had many suitors. But here in the New World, amid this
+community of saints, Mary is the second wife of Thomas Deerfield, a
+man as cruel as he is powerful. When Thomas, prone to drunken rage,
+drives a three-tined fork into the back of Mary's hand, she resolves
+that she must divorce him to save her life. But in a world where every
+neighbor is watching for signs of the devil, a woman like Mary--a
+woman who harbors secret desires and finds it difficult to tolerate
+the brazen hypocrisy of so many men in the colony--soon finds herself
+the object of suspicion and rumor. When tainted objects are discovered
+buried in Mary's garden, when a boy she has treated with herbs and
+simples dies, and when their servant girl runs screaming in fright
+from her home, Mary must fight to not only escape her marriage, but
+also the gallows. A twisting, tightly plotted thriller from one of our
+greatest storytellers, Hour of the Witch is a timely and terrifying
+novel of socially sanctioned brutality and the original American witch
+hunt.</description>
+        <imagePath>Images/Hour_of_the_Witch.jpg</imagePath>
+    </book>
+    <book ISBN="9781503958760">
+        <title>The Last Green Valley</title>
+        <author>Mark T. Sullivan</author>
+        <genres>
+            <genre>Historical Fiction</genre>
+            <genre>Biographical Fiction</genre>
+            <genre>War Story</genre>
+        </genres>
+        <publisher>Lake Union Publishing</publisher>
+        <publishedDate>2021-04-05</publishedDate>
+        <format>Paperback</format>
+        <price>700</price>
+        <description>In late March 1944, as Stalin’s forces push into
+Ukraine, young Emil and Adeline Martel must make a terrible decision:
+Do they wait for the Soviet bear’s intrusion and risk being sent to
+Siberia? Or do they reluctantly follow the wolves—murderous Nazi
+officers who have pledged to protect “pure-blood” Germans? The Martels
+are one of many families of German heritage whose ancestors have
+farmed in Ukraine for more than a century. But after already living
+under Stalin’s horrifying regime, Emil and Adeline decide they must
+run in retreat from their land with the wolves they despise to escapethe Soviets and go in search of freedom. Caught between two warring
+forces and overcoming horrific trials to pursue their hope of
+immigrating to the West, the Martels’ story is a brutal, complex, and
+ultimately triumphant tale that illuminates the extraordinary power of
+love, faith, and one family’s incredible will to survive and see their
+dreams realized.</description>
+        <imagePath>Images/The_Last_Green_Valley.jpg</imagePath>
+    </book>
+    <book ISBN="9780778389385">
+        <title>The Woman with the Blue Star</title>
+        <author>Pam Jenoff</author>
+        <genres>
+            <genre>Historical Fiction</genre>
+        </genres>
+        <publisher>Park Row</publisher>
+        <publishedDate>2021-04-05</publishedDate>
+        <format>Paperback</format>
+        <price>700</price>
+        <description>1942. Sadie Gault is eighteen and living with her
+parents amid the horrors of the Kraków Ghetto during World War II.
+When the Nazis liquidate the ghetto, Sadie and her pregnant mother are
+forced to seek refuge in the perilous sewers beneath the city. One day
+Sadie looks up through a grate and sees a girl about her own age
+buying flowers. Ella Stepanek is an affluent Polish girl living a life
+of relative ease with her stepmother, who has developed close
+alliances with the occupying Germans. Scorned by her friends and
+longing for her fiancé, who has gone off to war, Ella wanders Kraków
+restlessly. While on an errand in the market, she catches a glimpse of
+something moving beneath a grate in the street. Upon closer
+inspection, she realizes it’s a girl hiding. Ella begins to aid Sadie
+and the two become close, but as the dangers of the war worsen, their
+lives are set on a collision course that will test them in the face of
+overwhelming odds. Inspired by harrowing true stories, The Woman with
+the Blue Star is an emotional testament to the power of friendship and
+the extraordinary strength of the human will to survive.</description>
+        <imagePath>Images/The_Woman_with_the_Blue_Star.jpg</imagePath>
+    </book>
+    <book ISBN="9780063052291">
+        <title>Mary Jane</title>
+        <author>Jessica Anya Blau</author>
+        <genres>
+            <genre>Humour</genre>
+            <genre>Historical Fiction</genre>
+            <genre>Coming of age Story</genre>
+            <genre>Humorous Fiction</genre>
+        </genres>
+        <publisher>Custom House</publisher>
+        <publishedDate>2021-11-05</publishedDate>
+        <format>Hardcover</format>
+        <price>1150</price>
+        <description>In 1970s Baltimore, fourteen-year-old Mary Jane
+loves cooking with her mother, singing in her church choir, and
+enjoying her family’s subscription to the Broadway Show Tunes of theMonth record club. Shy, quiet, and bookish, she’s glad when she lands
+a summer job as a nanny for the daughter of a local doctor. A
+respectable job, Mary Jane’s mother says. In a respectable house. The
+house may look respectable on the outside, but inside it’s a literal
+and figurative mess: clutter on every surface, IMPEACHMENT: Now More
+Than Ever bumper stickers on the doors, cereal and takeout for dinner.
+And even more troublesome (were Mary Jane’s mother to know, which she
+does not): The doctor is a psychiatrist who has cleared his summer for
+one important job—helping a famous rock star dry out. A week after
+Mary Jane starts, the rock star and his movie star wife move in. Over
+the course of the summer, Mary Jane introduces her new household to
+crisply ironed clothes and a family dinner schedule, and has a front row seat to a liberal world of sex, drugs, and rock-and-roll (not to
+mention group therapy). Caught between the lifestyle she’s always
+known and the future she’s only just realized is possible, Mary Jane
+will arrive at September with a new idea about what she wants out of
+life, and what kind of person she’s going to be.</description>
+        <imagePath>Images/Mary_Jane.jpg</imagePath>
+    </book>
+    <book ISBN="9780525656975">
+        <title>Great Circle</title>
+        <author>Maggie Shipstead</author>
+        <genres>
+            <genre>Historical Fiction</genre>
+            <genre>Adventure Fiction</genre>
+        </genres>
+        <publisher>Knopf</publisher>
+        <publishedDate>2021-04-05</publishedDate>
+        <format>Hardcover</format>
+        <price>1200</price>
+        <description>After being rescued as infants from a sinking
+ocean liner in 1914, Marian and Jamie Graves are raised by their
+dissolute uncle in Missoula, Montana. There--after encountering a pair
+of barnstorming pilots passing through town in beat-up biplanes--
+Marian commences her lifelong love affair with flight. At fourteen she
+drops out of school and finds an unexpected and dangerous patron in a
+wealthy bootlegger who provides a plane and subsidizes her lessons, an
+arrangement that will haunt her for the rest of her life, even as it
+allows her to fulfill her destiny: circumnavigating the globe by
+flying over the North and South Poles. A century later, Hadley Baxter
+is cast to play Marian in a film that centers on Marian's
+disappearance in Antarctica. Vibrant, canny, disgusted with the
+claustrophobia of Hollywood, Hadley is eager to redefine herself after
+a romantic film franchise has imprisoned her in the grip of cult
+celebrity. Her immersion into the character of Marian unfolds,
+thrillingly, alongside Marian's own story, as the two women's fates--
+and their hunger for self-determination in vastly different
+geographies and times--collide. Epic and emotional, meticulously
+researched and gloriously told, Great Circle is a monumental work of
+art, and a tremendous leap forward for the prodigiously gifted Maggie
+Shipstead.</description>
+        <imagePath>Images/Great_Circle.jpg</imagePath>
+    </book>
+    <book ISBN="9780593098875">
+        <title>The Most Beautiful Girl in Cuba</title>
+        <author>Chanel Cleeton</author>
+        <genres>
+            <genre>Historical Fiction</genre>
+            <genre>War Story</genre>
+        </genres>
+        <publisher>Berkley</publisher>
+        <publishedDate>2021-04-05</publishedDate>
+        <format>Paperback</format>
+        <price>700</price>
+        <description>At the end of the nineteenth century, three
+revolutionary women fight for freedom in New York Times bestselling
+author Chanel Cleeton’s captivating new novel inspired by real-life
+events and the true story of a legendary Cuban woman–Evangelina
+Cisneros–who changed the course of history. A feud rages in Gilded Age
+New York City between newspaper tycoons William Randolph Hearst and
+Joseph Pulitzer. When Grace Harrington lands a job at Hearst’s
+newspaper in 1896, she’s caught in a cutthroat world where one scoop
+can make or break your career, but it’s a story emerging from Cuba
+that changes her life. Unjustly imprisoned in a notorious Havana
+women’s jail, eighteen-year-old Evangelina Cisneros dreams of a Cuba
+free from Spanish oppression. When Hearst learns of her plight and
+splashes her image on the front page of his paper, proclaiming her,
+“The Most Beautiful Girl in Cuba,” she becomes a rallying cry for
+American intervention in the battle for Cuban independence. With the
+help of Marina Perez, a courier secretly working for the Cuban
+revolutionaries in Havana, Grace and Hearst’s staff attempt to free
+Evangelina. But when Cuban civilians are forced into reconcentration
+camps and the explosion of the USS Maine propels the United States and
+Spain toward war, the three women must risk everything in their fight
+for freedom.</description>
+        <imagePath>Images/The_Most_Beautiful_Girl_in_Cuba.jpg</imagePath>
+    </book>
+    <book ISBN="9780593317952">
+        <title>Things We Lost to the Water</title>
+        <author>Eric Nguyen</author>
+        <genres>
+            <genre>Coming of age Story</genre>
+            <genre>Saga</genre>
+            <genre>Domestic Fiction</genre>
+        </genres>
+        <publisher>Knopf Publishing Group</publisher>
+        <publishedDate>2021-04-05</publishedDate>
+        <format>Hardcover</format>
+        <price>650</price>
+        <description>When Huong arrives in New Orleans with her two
+young sons, she is jobless, homeless, and worried about her husband,
+Cong, who remains in Vietnam. As she and her boys begin to settle in
+to life in America, she continues to send letters and tapes back to
+Cong, hopeful that they will be reunited and her children will grow up
+with a father. But with time, Huong realizes she will never see her
+husband again. While she copes with this loss, her sons, Tuan and Binh
+grow up in their absent father's shadow, haunted by a man and a
+country trapped in their memory and imagination. As they push forward,the three adapt to life in America in different ways: Huong takes up
+with a Vietnamese car salesman who is also new in town; Tuan tries to
+connect with his heritage by joining a local Vietnamese gang; and
+Binh, now going by Ben, embraces his adopted homeland and his
+burgeoning sexuality. Their search for identity--as individuals and as
+a family--threatens to tear them apart. But then disaster strikes the
+city they now call home, and they must find a new way to come together
+and honor the ties that bind them.</description>
+        <imagePath>Images/Things_We_Lost_to_the_Water.jpg</imagePath>
+    </book>
+    <book ISBN="9781635576085">
+        <title>The Kingdoms</title>
+        <author>Natasha Pulley</author>
+        <genres>
+            <genre>Fantasy Fiction</genre>
+            <genre>Alternate History</genre>
+            <genre>Historical Fantasy</genre>
+            <genre>Magic Realism</genre>
+        </genres>
+        <publisher>Bloomsbury Publishing</publisher>
+        <publishedDate>2021-25-05</publishedDate>
+        <format>Hardcover</format>
+        <price>1200</price>
+        <description>Joe Tournier has a bad case of amnesia. His first
+memory is of stepping off a train in the nineteenth-century French
+colony of England. The only clue Joe has about his identity is a
+century-old postcard of a Scottish lighthouse that arrives in London
+the same month he does. Written in illegal English—instead of French—
+the postcard is signed only with the letter “M,” but Joe is certain
+whoever wrote it knows him far better than he currently knows himself,
+and he's determined to find the writer. The search for M, though, will
+drive Joe from French-ruled London to rebel-owned Scotland and finally
+onto the battle ships of a lost empire's Royal Navy. In the process,
+Joe will remake history, and himself.</description>
+        <imagePath>Images/The_Kingdoms.jpg</imagePath>
+    </book>
+    <book ISBN="9781101966631">
+        <title>Katharine Parr, the Sixth Wife</title>
+        <author>Alison Weir</author>
+        <genres>
+            <genre>Historical Fiction</genre>
+            <genre>Biographical Fiction</genre>
+            <genre>Saga</genre>
+        </genres>
+        <publisher>Ballantine Books</publisher>
+        <publishedDate>2021-11-05</publishedDate>
+        <format>Hardcover</format>
+        <price>1250</price>
+        <description>Two husbands dead; a life marred by sadness. And
+now Katharine is in love for the first time in her life. The eye of an
+ageing and dangerous king falls upon her. She cannot refuse him. She
+must stifle her feelings and never betray that she wanted another. Andnow she is the sixth wife. Her queenship is a holy mission yet,
+fearfully, she dreams of the tragic parade of women who went before
+her. She cherishes the secret beliefs that could send her to the fire.
+And still the King loves and trusts her. Now her enemies are closing
+in. She must fight for her very life. KATHARINE PARR – the last of
+Henry’s queens. Alison Weir recounts the extraordinary story of a
+woman forced into a perilous situation and rising heroically to the
+challenge. Katharine is a delightful woman, a warm and kindly heroine
+– and yet she will be betrayed by those she loves and trusts most. Too
+late, the truth will dawn on her.</description>
+        <imagePath>Images/Katharin_Parr_the_Sixth_Wife.jpg</imagePath>
+    </book>
+    <book ISBN="9780385538930">
+        <title>China: The Novel</title>
+        <author>Edward Rutherfurd </author>
+        <genres>
+            <genre>Historical Fiction</genre>
+            <genre>Saga</genre>
+        </genres>
+        <publisher></publisher>
+        <publishedDate>2021-18-05</publishedDate>
+        <format>Hardcover</format>
+        <price>1350</price>
+        <description>Edward Rutherfurd has enthralled millions of
+readers with his grand, sweeping historical sagas that tell the
+history of a famous place over multiple generations. Now, in China:
+The Novel, Rutherfurd takes readers into the rich and fascinating
+milieu of the Middle Kingdom. The story begins in 1839, at the dawn of
+the First Opium War, and follows Chinese history through Mao's
+Cultural Revolution and up to the present day. Rutherfurd chronicles
+the rising and falling fortunes of members of Chinese, British, and
+American families, as they negotiate the tides of history. Along the
+way, in his signature style, Rutherfurd provides a deeply researched
+portrait of Chinese history and society, its ancient traditions and
+great upheavals, and China's emergence as a rising global power. As
+always, we are treated to romance and adventure, heroines and
+scoundrels, grinding struggle and incredible fortunes. China: The
+Novel brings to life the rich terrain of this vast and constantly
+evolving country. From Shanghai to Nanking to the Great Wall,
+Rutherfurd chronicles the turbulent rise and fall of empires as the
+colonial West meets the opulent and complex East in a dramatic
+struggle between cultures and people. Extraordinarily researched and
+majestically told, Edward Rutherfurd paints a thrilling portrait of
+one of the most singular and remarkable countries in the world.
+        </description>
+        <imagePath>Images/China_The_Novel.jpg</imagePath>
+    </book>
+    <book ISBN="9780374266776">
+        <title>Sorrowland</title>
+        <author>Rivers Solomon</author>
+        <genres>
+            <genre>Science Fiction</genre>
+            <genre>Gothic Fiction</genre>
+            <genre>LGBT Literature</genre>
+        </genres>
+        <publisher>MCD</publisher>
+        <publishedDate>2021-04-05</publishedDate>
+        <format>Hardcover</format>
+        <price>1100</price>
+        <description>Vern - seven months pregnant and desperate to
+escape the strict religious compound where she was raised - flees for
+the shelter of the woods. There, she gives birth to twins, and plans
+to raise them far from the influence of the outside world. But even in
+the forest, Vern is a hunted woman. Forced to fight back against the
+community that refuses to let her go, she unleashes incredible
+brutality far beyond what a person should be capable of, her body
+wracked by inexplicable and uncanny changes. To understand her
+metamorphosis and to protect her small family, Vern has to face the
+past, and more troublingly, the future - outside the woods. Finding
+the truth will mean uncovering the secrets of the compound she fled
+but also the violent history in America that produced it.
+        </description>
+        <imagePath>Images/Sorrowland.jpg</imagePath>
+    </book>
+    <book ISBN="9780356514185">
+        <title>The Shadow of the Gods</title>
+        <author>Rainbow Rowell</author>
+        <genres>
+            <genre>Fantasy Fiction</genre>
+            <genre>High Fantasy</genre>
+        </genres>
+        <publisher>Orbit</publisher>
+        <publishedDate>2021-04-05</publishedDate>
+        <format>Paperback</format>
+        <price>700</price>
+        <description>After the gods warred and drove themselves to
+extinction, the cataclysm of their fall shattered the land of Vigrið.
+Now a new world is rising, where power-hungry jarls feud and monsters
+stalk the woods and mountains. A world where the bones of the dead
+gods still hold great power for those brave - or desperate - enough to
+seek them out. Now, as whispers of war echo across the mountains and
+fjords, fate follows in the footsteps of three people: a huntress on a
+dangerous quest, a noblewoman who has rejected privilege in pursuit of
+battle fame, and a thrall who seeks vengeance among the famed
+mercenaries known as the Bloodsworn. All three will shape the fate of
+the world as it once more falls under the shadow of the gods.
+        </description>
+        <imagePath>Images/The_Shadow_of_the_Gods.jpg</imagePath>
+    </book>
+    <book ISBN="9781250756800">
+        <title>Blade of Secrets</title>
+        <author>Tricia Levenseller</author>
+        <genres>
+            <genre>Young adult fiction</genre>
+            <genre>Fantasy Fiction</genre>
+        </genres>
+        <publisher>Feiwel and Friends</publisher>
+        <publishedDate>2021-04-05</publishedDate>
+        <format>Hardcover</format>
+        <price>750</price>
+        <description>Eighteen-year-old Ziva prefers metal to people.
+She spends her days tucked away in her forge, safe from society and
+the anxiety it causes her, using her magical gift to craft unique
+weapons imbued with power. Then Ziva receives a commission from a
+powerful warlord, and the result is a sword capable of stealing its
+victims' secrets. A sword that can cut far deeper than the length of
+its blade. A sword with the strength to topple kingdoms. When Ziva
+learns of the warlord’s intentions to use the weapon to enslave all
+the world under her rule, she takes her sister and flees. Joined by a
+distractingly handsome mercenary and a young scholar with extensive
+knowledge of the world's known magics, Ziva and her sister set out on
+a quest to keep the sword safe until they can find a worthy wielder or
+a way to destroy it entirely.</description>
+        <imagePath>Images/Blade_of_Secrets.jpg</imagePath>
+    </book>
+    <book ISBN="9781338188363">
+        <title>Mister Impossible</title>
+        <author>Maggie Stiefvater</author>
+        <genres>
+            <genre>Young adult fiction</genre>
+            <genre>Paranormal Fiction</genre>
+        </genres>
+        <publisher>Scholastic Press</publisher>
+        <publishedDate>2021-18-05</publishedDate>
+        <format>Hardcover</format>
+        <price>800</price>
+        <description>The stakes have never been higher as it seems
+like either the end of the world or the end of dreamers approaches. Do
+the dreamers need the ley lines to save the world or will their
+actions end up dooming the world? As Ronan, Hennessy, and Bryde try to
+make dreamers more powerful, the Moderators are closing in, sure that
+this power will bring about disaster. In the remarkable second book of
+The Dreamer Trilogy, Maggie Stiefvater pushes her characters to their
+limits - and shows what happens to them and others when they start to
+break.</description>
+        <imagePath>Images/Mister_Impossible.jpg</imagePath>
+    </book>
+    <book ISBN="9781250621191">
+        <title>The Blacktongue Thief</title>
+        <author>Christopher Buehlman</author>
+        <genres>
+            <genre>Fantasy Fiction</genre>
+            <genre>Horror Fiction</genre>
+            <genre>High Fantasy</genre>
+            <genre>Fantasy Comedy</genre>
+        </genres>
+        <publisher>Tor Books</publisher>
+        <publishedDate>2021-25-05</publishedDate>
+        <format>Hardcover</format>
+        <price>1050</price>
+        <description>Kinch Na Shannack owes the Takers Guild a small
+fortune for his education as a thief, which includes (but is not
+limited to) lock-picking, knife-fighting, wall-scaling, fall-breaking,
+lie-weaving, trap-making, plus a few small magics. His debt has driven
+him to lie in wait by the old forest road, planning to rob the next
+traveler that crosses his path. But today, Kinch Na Shannack has
+picked the wrong mark. Galva is a knight, a survivor of the brutal
+goblin wars, and handmaiden of the goddess of death. She is searching
+for her queen, missing since a distant northern city fell to giants.
+Unsuccessful in his robbery and lucky to escape with his life, Kinch
+now finds his fate entangled with Galva's. Common enemies and uncommon
+dangers force thief and knight on an epic journey where goblins hunger
+for human flesh, krakens hunt in dark waters, and honor is a luxury
+few can afford.</description>
+        <imagePath>Images/The_Blacktongue_Thief.jpg</imagePath>
+    </book>
+    <book ISBN="9780425283431">
+        <title>Black Water Sister</title>
+        <author>Zen Cho</author>
+        <genres>
+            <genre>Fantasy Fiction</genre>
+            <genre>Contemporary Fantasy</genre>
+            <genre>Ghost Story</genre>
+            <genre>Historical Fantasy</genre>
+        </genres>
+        <publisher>Ace Books</publisher>
+        <publishedDate>2021-11-05</publishedDate>
+        <format>Paperback</format>
+        <price>700</price>
+        <description>Jessamyn Teoh is closeted, broke and moving back
+to Malaysia, a country she left when she was a toddler. So when Jess
+starts hearing voices, she chalks it up to stress. But there's only
+one voice in her head, and it claims to be the ghost of her estranged
+grandmother, Ah Ma. In life Ah Ma was a spirit medium, the avatar of a
+mysterious deity called the Black Water Sister. Now she's determined
+to settle a score against a gang boss who has offended the god--and
+she's decided Jess is going to help her do it. Drawn into a world of
+gods, ghosts, and family secrets, Jess finds that making deals with
+capricious spirits is a dangerous business. As Jess fights for
+retribution for Ah Ma, she'll also need to regain control of her body
+and destiny. If she fails, the Black Water Sister may finish her off
+for good.</description>
+        <imagePath>Images/Black_Water_Sister.jpg</imagePath>
+    </book>
+    <book ISBN="9781250776600">
+        <title>In the Ravenous Dark</title>
+        <author>AdriAnne Strickland</author>
+        <genres>
+            <genre>Young adult fiction</genre>
+            <genre>Fantasy Fiction</genre>
+        </genres>
+        <publisher>Imprint</publisher>
+        <publishedDate>2021-18-05</publishedDate>
+        <format>Hardcover</format>
+        <price>800</price>
+        <description>In Thanopolis, those gifted with magic are
+assigned undead spirits to guard them—and control them. Ever since
+Rovan’s father died trying to keep her from this fate, she’s hidden
+her magic. But when she accidentally reveals her powers, she’s bound
+to a spirit and thrust into a world of palace intrigue and deception.
+Desperate to escape, Rovan finds herself falling for two people she
+can’t fully trust: Lydea, a beguiling, rebellious princess; and
+Ivrilos, the handsome spirit with the ability to control Rovan, body
+and soul. Together, they uncover a secret that will destroy
+Thanopolis. To save them all, Rovan will have to start a rebellion in
+both the mortal world and the underworld, and find a way to trust the
+princess and spirit battling for her heart—if she doesn’t betray them
+first.</description>
+        <imagePath>Images/In_the_Ravenous_Dark.jpg</imagePath>
+    </book>
+    <book ISBN="9781982142742">
+        <title>Firebreak</title>
+        <author>Nicole Kornher-Stace </author>
+        <genres>
+            <genre>Science Fiction</genre>
+            <genre>Dystopian Fiction</genre>
+        </genres>
+        <publisher>Gallery / Saga Press</publisher>
+        <publishedDate>2021-04-05</publishedDate>
+        <format>Hardcover</format>
+        <price>1150</price>
+        <description>Like everyone else she knows, Mallory is an
+orphan of the corporate war. As a child, she lost her parents, her
+home, and her entire building in an airstrike. As an adult, she lives
+in a cramped hotel room with eight other people, all of them working
+multiple jobs to try to afford water and make ends meet. And the job
+she’s best at is streaming a popular VR war game. The best part of the
+game isn’t killing enemy combatants, though—it’s catching in-game
+glimpses of SpecOps operatives, celebrity supersoldiers grown and
+owned by Stellaxis, the corporation that runs the America she lives
+in. Until a chance encounter with a SpecOps operative in the game
+leads Mal to a horrifying discovery: the real-life operatives weren’t
+created by Stellaxis. They were kids, just like her, who lost
+everything in the war, and were stolen and augmented and tortured into
+becoming supersoldiers. The world worships them, but the world
+believes a lie. The company controls every part of their lives, and
+defying them puts everything at risk—her water ration, her livelihood,
+her connectivity, her friends, her life—but she can’t just sit on the
+knowledge. She has to do something—even if doing something will bringthe wrath of the most powerful company in the world down upon her.
+        </description>
+        <imagePath>Images/Firebreak.jpg</imagePath>
+    </book>
+    <book ISBN="9780759557871">
+        <title>Illusionary</title>
+        <author>Zoraida Córdova</author>
+        <genres>
+            <genre>Fantasy Fiction</genre>
+            <genre>Adventure Fiction</genre>
+        </genres>
+        <publisher>Little, Brown Books for Young Readers</publisher>
+        <publishedDate>2021-11-05</publishedDate>
+        <format>Hardcover</format>
+        <price>800</price>
+        <description>Reeling from betrayal at the hands of the
+Whispers, Renata Convida is a girl on the run. With few options and
+fewer allies, she's reluctantly joined forces with none other than
+Prince Castian, her most infuriating and intriguing enemy. They're
+united by lofty goals: find the fabled Knife of Memory, kill the
+ruthless King Fernando, and bring peace to the nation. Together, Ren
+and Castian have a chance to save everything, if only they can set
+aside their complex and intense feelings for each other. With the
+king's forces on their heels at every turn, their quest across Puerto
+Leones and beyond leaves little room for mistakes. But the greatest
+danger is within Ren. The Gray, her fortress of stolen memories, has
+begun to crumble, threatening her grip on reality. She'll have to
+control her magics--and her mind--to unlock her power and protect the
+Moria people once and for all. For years, she was wielded as weapon.
+Now it's her time to fight back.</description>
+        <imagePath>Images/Illusionary.jpg</imagePath>
+    </book>
+    <book ISBN="9781649370310">
+        <title>Ember of Night</title>
+        <author>Molly E. Lee</author>
+        <genres>
+            <genre>Young adult fiction</genre>
+            <genre>Adventure Fiction</genre>
+        </genres>
+        <publisher>Entangled:Teen</publisher>
+        <publishedDate>2021-04-05</publishedDate>
+        <format>Hardcover</format>
+        <price>750</price>
+        <description>“What to read after A Court of Thorns and Roses!
+Full of twists you’ll never see coming!” –UppercaseYA. I’ve never been
+a stranger to the darkness. But when darkness comes knocking and looks
+that good, who wouldn’t invite him in? Draven is mysterious, evasive,
+and hot as sin. The only thing more infuriating than how much he won’t
+say is how obnoxious he is every time he does open his mouth. But when
+a group of strangers attacks me and he fights back, causing them to
+vanish into a cloud of black dust, I know Draven is more than he
+seems. He finally shows me there’s a veil separating the world I knowfrom a world of demons living all around us. Turns out, good and evil
+are just words. Some of the demons don’t fall into either category.
+And I’m realizing just how easily I fit in among the ancient warlocks,
+the divine soldiers, and the twisted supernaturals. There’s so much
+more to me. To my past. And to what I am truly capable of than I ever
+thought possible. So when all signs point to me having the ability to
+unleash Hell on earth? I’ll have to decide if I want to do the world a
+solid and save it, or give it one hell of a makeover.</description>
+        <imagePath>Images/Ember_of_Night.jpg</imagePath>
+    </book>
+
+    <!-- bea -->
+
+    <book ISBN="9781250012579">
+        <title>Eleanor and Park</title>
+        <author>Rainbow Rowell</author>
+        <genres>
+            <genre>Novel</genre>
+            <genre>Young adult fiction</genre>
+            <genre>Romance novel</genre>
+        </genres>
+        <publisher>St. Martin's Griffin</publisher>
+        <publishedDate>2012-12-04</publishedDate>
+        <format>Hardcover</format>
+        <price>900</price>
+        <description>It’s 1986 when Eleanor arrives in her new town, all chaotic red hair and mismatched clothes. She takes a seat on the school bus and finds herself next to Park — quiet, understated, and impossibly cool. Carefully yet wholeheartedly, over late night phone calls and countless mix tapes, Eleanor and Park fall in love. It’s that pure, fear-laced, heartbreaking kind of love you only experience when you’re sixteen — and trust us, your heart will melt.</description>
+        <imagePath>Images/Eleanor_and_Park.jpg</imagePath>
+    </book>
+
+    <book ISBN="9780143124542">
+        <title>Me Before You</title>
+        <author>Jojo Moyes</author>
+        <genres>
+            <genre>Romance</genre>
+            <genre>Fiction</genre>
+        </genres>
+        <publisher>Penguin Books</publisher>
+        <publishedDate>2012-05-01</publishedDate>
+        <format>Paperback</format>
+        <price>700</price>
+        <description>Lou Clark knows lots of things. She knows how many footsteps there are between the bus stop and home. She knows she likes working in The Buttered Bun tea shop and she knows she might not love her boyfriend Patrick.
+What Lou doesn’t know is she’s about to lose her job or that knowing what’s coming is what keeps her sane. 								Will Traynor knows his motorcycle accident took away his desire to live. He knows everything feels very small and rather joyless now and he knows exactly how he’s going to put a stop to that.											What Will doesn’t know is that Lou is about to burst into his world in a riot of colour. And neither of them knows they’re going to change the other for all time.
+</description>
+        <imagePath>Images/Me_Before_You.jpg</imagePath>
+    </book>
+
+    <book ISBN="9789715088343">
+        <title>I Decided To Live As Me</title>
+        <author>Kim Soo Hyun</author>
+        <genres>
+            <genre>Illustrated essay</genre>
+        </genres>
+        <publisher>Adarna House</publisher>
+        <publishedDate>2016-25-11</publishedDate>
+        <format>Paperback</format>
+        <price>480</price>
+        <description>In life, we can’t always be assured to have someone to lean on to. Sure, there will always be a handful of relationships that have already stood the test of time but truth be told, we only have ourselves to count on during the darkest days. This realization unfolds when you start ~adulting~ and you discover the bits and pieces of yourself that are not all desirable. Kim Soo Hyun tells in “I Decided To Live As Me'' that “Without imitating or envying someone else’s life, this book talks about how we can recognize and love who we are.”</description>
+        <imagePath>Images/I_Decided_to_Live_as_Me.jpg</imagePath>
+    </book>
+
+    <book ISBN="9781455582877">
+        <title>The Notebook</title>
+        <author>Nicholas Sparks</author>
+        <genres>
+            <genre>Romance</genre>
+            <genre>Drama</genre>
+        </genres>
+        <publisher>Little, Brown &amp; Company</publisher>
+        <publishedDate>1996-01-10</publishedDate>
+        <format>Paperback</format>
+        <price>400</price>
+        <description>A man with a faded, well-worn notebook open in his lap. A woman experiencing a morning ritual she doesn’t understand. Until he begins to read to her.  The Notebook is an achingly tender story about the enduring power of love, a story of miracles that will stay with you forever. Set amid the austere beauty of coastal North Carolina in 1946, The Notebook begins with the story of Noah Calhoun, a rural Southerner returned home from World War II.</description>
+        <imagePath>Images/The_Notebook.jpg</imagePath>
+    </book>
+
+    <book ISBN="9781478948353">
+        <title>Dear John</title>
+        <author>Nicholas Sparks</author>
+        <genres>
+            <genre>Romance</genre>
+            <genre>Drama</genre>
+            <genre>Adaption</genre>
+        </genres>
+        <publisher>2006-30-10</publisher>
+        <publishedDate></publishedDate>
+        <format>Paperback</format>
+        <price>400</price>
+        <description>An angry rebel, John dropped out of school and enlisted in the Army, not knowing what else to do with his life—until he meets the girl of his dreams, Savannah. Their mutual attraction quickly grows into the kind of love that leaves Savannah waiting for John to finish his tour of duty, and John wanting to settle down with the woman who has captured his heart.</description>
+        <imagePath>Images/Dear_John.jpg</imagePath>
+    </book>
+
+    <book ISBN="9781455571659">
+        <title>The Last Song</title>
+        <author>Nicholas Sparks</author>
+        <genres>
+            <genre>Romance </genre>
+            <genre>Drama </genre>
+            <genre>Music</genre>
+        </genres>
+        <publisher>Grand Central Publishing</publisher>
+        <publishedDate></publishedDate>
+        <format>Paperback</format>
+        <price>400</price>
+        <description>Seventeen year-old Veronica “Ronnie” Miller’s life was turned upside-down when her parents divorced and her father moved from New York City to Wilmington, North Carolina. Three years later, she remains angry and alienated from her parents, especially her father… until her mother decides it would be in everyone’s best interest if she spent the summer in Wilmington with him.</description>
+        <imagePath>Images/The_Last_Song.jpg</imagePath>
+    </book>
+
+    <book ISBN="9780142424179">
+        <title>The Fault in Our Stars</title>
+        <author>John Green</author>
+        <genres>
+            <genre>Novel</genre>
+            <genre>Young adult fiction</genre>
+            <genre>Romance</genre>
+        </genres>
+        <publisher>Penguin Books</publisher>
+        <publishedDate>2012-10-01</publishedDate>
+        <format>Paperback</format>
+        <price>600</price>
+        <description>Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel’s story is about to be completely rewritten.</description>
+        <imagePath>Images/The_Fault_in_Our_Stars.jpg</imagePath>
+    </book>
+
+    <book ISBN="9780525555377">
+        <title>Turtles All the Way Down</title>
+        <author>John Green</author>
+        <genres>
+            <genre>Novel</genre>
+            <genre>Young adult fiction</genre>
+        </genres>
+        <publisher>Penguin Books</publisher>
+        <publishedDate>2017-10-10</publishedDate>
+        <format>Paperback</format>
+        <price>550</price>
+        <description>Sixteen-year-old Aza never intended to pursue the mystery of fugitive billionaire Russell Pickett, but there’s a hundred-thousand-dollar reward at stake and her Best and Most Fearless Friend, Daisy, is eager to investigate. So together, they navigate the short distance and broad divides that separate them from Russell Pickett’s son, Davis.Aza is trying. She is trying to be a good daughter, a good friend, a good student, and maybe even a good detective, while also living within the ever-tightening spiral of her own thoughts.</description>
+        <imagePath>Images/Turtles_All_the_Way_Down.jpg</imagePath>
+    </book>
+
+    <book ISBN="9780553496673">
+        <title>Everything, Everything</title>
+        <author>Nicola Yoon</author>
+        <genres>
+            <genre>Novel</genre>
+            <genre>Young adult fiction</genre>
+        </genres>
+        <publisher>Delacorte Books </publisher>
+        <publishedDate>2015-01-09</publishedDate>
+        <format>Paperback</format>
+        <price>450</price>
+        <description>What if you couldn’t touch anything in the outside world? Never breathe in the fresh air, feel the sun warm your face . . . or kiss the boy next door? In Everything, Everything, Maddy is a girl who’s literally allergic to the outside world, and Olly is the boy who moves in next door . . . and becomes the greatest risk she’s ever taken.</description>
+        <imagePath>Images/Everything_Everything.jpg</imagePath>
+    </book>
+
+
+    <book ISBN="9780345803788">
+        <title>Crazy Rich Asians</title>
+        <author>Kevin Kwan</author>
+        <genres>
+            <genre>Novel</genre>
+        </genres>
+        <publisher>Random House USA Inc</publisher>
+        <publishedDate>2013-11-06</publishedDate>
+        <format>Paperback</format>
+        <price>800</price>
+        <description>Crazy Rich Asians is the outrageously funny debut novel about three super-rich, pedigreed Chinese families and the gossip, backbiting, and scheming that occurs when the heir to one of the most massive fortunes in Asia brings home his ABC (American-born Chinese) girlfriend to the wedding of the season.
+When Rachel Chu agrees to spend the summer in Singapore with her boyfriend, Nicholas Young, she envisions a humble family home, long drives to explore the island, and quality time with the man she might one day marry. What she doesn't know is that Nick's family home happens to look like a palace, that she'll ride in more private planes than cars, and that with one of Asia's most eligible bachelors on her arm, Rachel might as well have a target on her back.
+</description>
+        <imagePath>Images/Crazy_Rich_Asians.jpg</imagePath>
+    </book>
+
+    <book ISBN="9781481430487">
+        <title>Always and Forever Lara Jean</title>
+        <author>Jenny Han</author>
+        <genres>
+            <genre>Young adult fictio</genre>
+            <genre>Romance novel</genre>
+        </genres>
+        <publisher>Simon &amp; Schuster Books for Young Readers</publisher>
+        <publishedDate>2017-02-05</publishedDate>
+        <format>Paperback</format>
+        <price>450</price>
+        <description>Lara Jean is having the best senior year a girl could ever hope for. She is head over heels in love with her boyfriend, Peter; her dad’s finally getting remarried to their next door neighbor, Ms. Rothschild; and Margot’s coming home for the summer just in time for the wedding.
+But change is looming on the horizon. And while Lara Jean is having fun and keeping busy helping plan her father’s wedding, she can’t ignore the big life decisions she has to make. Most pressingly, where she wants to go to college and what that means for her relationship with Peter. She watched her sister Margot go through these growing pains. Now Lara Jean’s the one who’ll be graduating high school and leaving for college and leaving her family—and possibly the boy she loves—behind.
+When your heart and your head are saying two different things, which one should you listen to?
+</description>
+        <imagePath>Images/Always_and_Forever_Lara_Jean.jpg</imagePath>
+    </book>
+
+
+    <book ISBN="9780062059932">
+        <title>The Selection</title>
+        <author>Kiera Cass </author>
+        <genres>
+            <genre>Dystopian</genre>
+            <genre>Young adult</genre>
+            <genre>Romance</genre>
+        </genres>
+        <publisher>HarperCollins Publishers Inc</publisher>
+        <publishedDate>2012-14-04</publishedDate>
+        <format>Paperback</format>
+        <price>550</price>
+        <description>For thirty-five girls, the Selection is the chance of a lifetime. The opportunity to escape the life laid out for them since birth. To be swept up in a world of glittering gowns and priceless jewels. To live in a palace and compete for the heart of gorgeous Prince Maxon.
+But for America Singer, being Selected is a nightmare. It means turning her back on her secret love with Aspen, who is a caste below her. Leaving her home to </description>
+        <imagePath>Images/The_Selection.jpg</imagePath>
+    </book>
+
+    <book ISBN="9780062024022">
+        <title>Divergent</title>
+        <author>Veronica Roth</author>
+        <genres>
+            <genre>Novel</genre>
+            <genre>Young adult fiction</genre>
+            <genre>Science fiction</genre>
+            <genre>Romance</genre>
+            <genre>Dystopian Fiction</genre>
+        </genres>
+        <publisher>HarperCollins Publishers Inc</publisher>
+        <publishedDate>2011-26-04</publishedDate>
+        <format>Paperback</format>
+        <price>600</price>
+        <description></description>
+        <imagePath>Images/Divergent.jpg</imagePath>
+    </book>
+
+
+    <book ISBN="9780062234933">
+        <title>Insurgent</title>
+        <author>Veronica Roth</author>
+        <genres>
+            <genre>Novel</genre>
+            <genre>Young adult fiction</genre>
+            <genre>Science fiction</genre>
+            <genre>Romance</genre>
+            <genre>Dystopian Fiction</genre>
+        </genres>
+        <publisher>HarperCollins Publishers Inc</publisher>
+        <publishedDate>2013-22-10</publishedDate>
+        <format>Paperback</format>
+        <price>600</price>
+        <description>The faction-based society that Tris Prior once believed in is shattered—fractured by violence and power struggles and scarred by loss and betrayal. So when offered a chance to explore the world past the limits she’s known, Tris is ready. Perhaps beyond the fence, she and Tobias will find a simple new life together, free from complicated lies, tangled loyalties, and painful memories.</description>
+        <imagePath>Images/Insurgent.jpg</imagePath>
+    </book>
+
+    <book ISBN="9780062024077">
+        <title>Allegiant</title>
+        <author>Veronica Roth</author>
+        <genres>
+            <genre>Novel</genre>
+            <genre>Young adult fiction</genre>
+            <genre>Science fiction</genre>
+            <genre>Romance</genre>
+            <genre>Dystopian Fiction</genre>
+        </genres>
+        <publisher>HarperCollins Publishers Inc</publisher>
+        <publishedDate>2013-22-10</publishedDate>
+        <format>Paperback</format>
+        <price>600</price>
+        <description>The faction-based society that Tris Prior once believed in is shattered—fractured by violence and power struggles and scarred by loss and betrayal. So when offered a chance to explore the world past the limits she’s known, Tris is ready. Perhaps beyond the fence, she and Tobias will find a simple new life together, free from complicated lies, tangled loyalties, and painful memories.
+But Tris’s new reality is even more alarming than the one she left behind. Old discoveries are quickly rendered meaningless. Explosive new truths change the hearts of those she loves. And once again, Tris must battle to comprehend the complexities of human nature—and of herself—while facing impossible choices about courage, allegiance, sacrifice, and love.
+</description>
+        <imagePath>Images/Allegiant.jpg</imagePath>
+    </book>
+
+
+    <book ISBN="9780062348678">
+        <title>Simon vs. the Homo Sapiens Agenda</title>
+        <author>Becky Albertalli</author>
+        <genres>
+            <genre>Novel</genre>
+            <genre>Young adult fiction</genre>
+            <genre>Romance novel</genre>
+            <genre>Bildungsroman</genre>
+            <genre>LGBT literature</genre>
+        </genres>
+        <publisher>Balzer &amp; Bray and Harperteen</publisher>
+        <publishedDate>2015-07-04</publishedDate>
+        <format>Paperback</format>
+        <price>500</price>
+        <description>Sixteen-year-old and not-so-openly gay Simon Spier prefers to save his drama for the school musical. But when an email falls into the wrong hands, his secret is at risk of being thrust into the spotlight. Now change-averse Simon has to find a way to step out of his comfort zone before he’s pushed out—without alienating his friends, compromising himself, or fumbling a shot at happiness with the most confusing, adorable guy he’s never met.</description>
+        <imagePath>Images/Simon_vs_the_Homo_Sapiens_Agenda.jpg</imagePath>
+    </book>
+
+
+    <book ISBN="9789718161753">
+        <title>Tuwing Ikatlong Sabado</title>
+        <author>Juan Miguel Severo</author>
+        <genres>
+            <genre>Poetry</genre>
+        </genres>
+        <publisher>ABS CBN Publishing, Inc</publisher>
+        <publishedDate>2016-01-01</publishedDate>
+        <format>Regular Print Book</format>
+        <price>450</price>
+        <description>1 January 2016
+Description:May guro, flight attendant, med student, at tarot card reader. May lisensyadong physical therapist. May copywriters ng ahensya. May wannabe artista. Ang mga miyembro ng Words Anonymous ay pinagtagpo-tagpo ng parehong pagmamahal sa spoken word poetry sa isang maliit na cafe sa isang malit na cafe sa Malate, Manila.
+</description>
+        <imagePath>Images/Tuwing_Ikatlong_Sabado.jpg</imagePath>
+    </book>
+
+    <book ISBN="9789718161432">
+        <title>Habang Wala Pa Sila: Mga Tula ng Pag-ibig</title>
+        <author>Juan Miguel Severo</author>
+        <genres>
+            <genre>Poetry</genre>
+        </genres>
+        <publisher>ABS-CBN Publishing, Inc.</publisher>
+        <publishedDate>2016-03-03</publishedDate>
+        <format>Regular Print Book</format>
+        <price>450</price>
+        <description>Ibinalik ni Severo ang lugod ng tula sa puso ng mga kabataang nawalan na ng oras sa panulaan dahil sa pagkaabala sa maraming bagal. Naging bata akong muli pagkatapos basahin si Severo. Umibig akong muli hindi lamabg sa pag-ibig kundi sa kapasidad ng tula na gisingin ang ating mga damdamin na matagal nang pinamanhid ng paulit-ulit na pagkabigo."</description>
+        <imagePath>Images/Habang_Wala_Pa_Sila_Mga_Tula_ng_Pag-ibig.jpg</imagePath>
+    </book>
+
+    <!-- macahilig -->
+    <book ISBN="9780345015339">
+        <title>The Fellowship of the Rings</title>
+        <author>J. R. R. Tolkien</author>
+        <genres>
+            <genre>Fantasy</genre>
+            <genre>Novel</genre>
+        </genres>
+        <publisher>Ballantine Books</publisher>
+        <publishedDate>1954-07-29</publishedDate>
+        <format>Paperback</format>
+        <price>700</price>
+        <description> The Fellowship of the Ring is the first of three volumes of the epic novel The Lord of the Rings by the English author J. R. R. Tolkien. It is followed by The Two Towers and The Return of the King. It takes place in the fictional universe of Middle-earth.</description>
+        <imagePath>Images/The_Fellowship_of_the_Rings.jpg</imagePath>
+    </book>
+
+    <book ISBN="9780618260300">
+        <title>The Hobbit</title>
+        <author>J. R. R. Tolkien</author>
+        <genres>
+            <genre>Novel</genre>
+            <genre>Children's literature</genre>
+            <genre>Fantasy Fiction</genre>
+            <genre>High fantasy</genre>
+            <genre>Epic</genre>
+        </genres>
+        <publisher>Houghton Mifflin</publisher>
+        <publishedDate>2002-07-15</publishedDate>
+        <format>Paperback</format>
+        <price>1100</price>
+        <description>In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort. Written for J.R.R. Tolkien’s own children, The Hobbit met with instant critical acclaim when it was first published in 1937. Now recognized as a timeless classic, this introduction to the hobbit Bilbo Baggins, the wizard Gandalf, Gollum, and the spectacular world of Middle-earth recounts of the adventures of a reluctant hero, a powerful and dangerous ring, and the cruel dragon Smaug the Magnificent. The text in this 372-page paperback edition is based on that first published in Great Britain by Collins Modern Classics (1998), and includes a note on the text by Douglas A. Anderson (2001).</description>
+        <imagePath>Images/The_Hobbit.jpg</imagePath>
+    </book>
+    <book ISBN="8580001044842">
+        <title>The Little Prince</title>
+        <author>Antoine de Saint-Exupéry</author>
+        <genres>
+            <genre>Children's literature</genre>
+            <genre>Fable</genre>
+            <genre>Novel</genre>
+            <genre>Speculative fiction</genre>
+        </genres>
+        <publisher>Harcourt, Inc.</publisher>
+        <publishedDate>1943-04-06</publishedDate>
+        <format>Paperback</format>
+        <price>500</price>
+        <description>The Little Prince is a novella by French aristocrat, writer, and aviator Antoine de Saint-Exupéry. It was first published in English and French in the US by Reynal and Hitchcock in April 1943, and posthumously in France following the liberation of France as Saint-Exupéry's works had been banned by the Vichy Regime. The story follows a young prince who visits various planets in space, including Earth, and addresses themes of loneliness, friendship, love, and loss. Despite its style as a children's book, The Little Prince makes observations about life, adults and human nature</description>
+        <imagePath>Images/The_Little_Prince.jpg</imagePath>
+    </book>
+
+    <book ISBN=" 9780064404990">
+        <title>The Lion, the Witch and the Wardrobe</title>
+        <author>C. S. Lewis</author>
+        <genres>
+            <genre>Children's literature</genre>
+            <genre>Fantansy Fiction</genre>
+            <genre>Novel</genre>
+            <genre>Christian literature</genre>
+            <genre>High Fantasy</genre>
+        </genres>
+        <publisher>HarperCollins Publishers</publisher>
+        <publishedDate>1950-10-16</publishedDate>
+        <format>Paperback</format>
+        <price>400</price>
+        <description>The Lion, the Witch and the Wardrobe is a fantasy novel for children by C. S. Lewis, published by Geoffrey Bles in 1950. It is the first published and best known of seven novels in The Chronicles of Narnia (1950–1956). Among all the author's books, it is also the most widely held in libraries.Although it was originally the first of The Chronicles of Narnia, it is volume two in recent editions that are sequenced by the stories' chronology. Like the other Chronicles, it was illustrated by Pauline Baynes, and her work has been retained in many later editions</description>
+        <imagePath>Images/The_Lion_the_witch_and_the_wardrobe.jpg</imagePath>
+    </book>
+
+    <book ISBN="0385504209">
+        <title>Da Vinci Code</title>
+        <author>Dan Brown</author>
+        <genres>
+            <genre>Thriller</genre>
+            <genre>Mystery</genre>
+            <genre>Novel</genre>
+            <genre>Detective novel</genre>
+            <genre>Crime Fiction</genre>
+            <genre>Conspiracy fiction</genre>
+        </genres>
+        <publisher>Anchor</publisher>
+        <publishedDate>2003-03-18</publishedDate>
+        <format>Paperback</format>
+        <price>700</price>
+        <description>The Da Vinci Code is a 2003 mystery thriller novel by Dan Brown. It is Brown's second novel to include the character Robert Langdon: the first was his 2000 novel Angels and Demons. The Da Vinci Code follows "symbologist" Robert Langdon and cryptologist Sophie Neveu after a murder in the Louvre Museum in Paris causes them to become involved in a battle between the Priory of Sion and Opus Dei over the possibility of Jesus Christ and Mary Magdalene having had a child together.</description>
+        <imagePath>Images/The_Da_Vinci_Code.jpg</imagePath>
+    </book>
+
+    <book ISBN="9780451530578">
+        <title>A Tale of Two Cities</title>
+        <author>Charles Dickens</author>
+        <genres>
+            <genre>Historical Fiction</genre>
+            <genre>historical novel</genre>
+            <genre>Novel</genre>
+            <genre>Social criticism</genre>
+        </genres>
+        <publisher>Penguin Books</publisher>
+        <publishedDate>1859-04-20</publishedDate>
+        <format>Paperback</format>
+        <price>300</price>
+        <description>A Tale of Two Cities is an 1859 historical novel by Charles Dickens, set in London and Paris before and during the French Revolution. The novel tells the story of the French Doctor Manette, his 18-year-long imprisonment in the Bastille in Paris and his release to live in London with his daughter Lucie, whom he had never met. The story is set against the conditions that led up to the French Revolution and the Reign of Terror.</description>
+        <imagePath>Images/A_Tale_of_two_cities.jpg</imagePath>
+    </book>
+
+    <book ISBN="97800061122415">
+        <title>The Alchemist</title>
+        <author>Paulo Coelho</author>
+        <genres>
+            <genre>Novel</genre>
+            <genre>Fantasy Fiction</genre>
+            <genre>Drama</genre>
+            <genre>Quest</genre>
+            <genre>Adventure fiction</genre>
+        </genres>
+        <publisher>HarperOne</publisher>
+        <publishedDate>1993-04-25</publishedDate>
+        <format>Paperback</format>
+        <price>650</price>
+        <description>The Alchemist by Paulo Coelho continues to change the lives of its readers forever. With more than two million copies sold around the world, The Alchemist has established itself as a modern classic, universally admired.</description>
+        <imagePath>Images/The_Alchemist.jpg</imagePath>
+    </book>
+
+    <book ISBN="9780062658753">
+        <title>Charlotte's Web</title>
+        <author>E. B. White</author>
+        <genres>
+            <genre>Novel</genre>
+            <genre>Children's literature</genre>
+            <genre>Fiction</genre>
+        </genres>
+        <publisher>HarperCollinsPublishers</publisher>
+        <publishedDate>1953-10-15</publishedDate>
+        <format>Paperback</format>
+        <price>400</price>
+        <description>Charlotte's Web is a book of children's literature by American author E. B. White and illustrated by Garth Williams; it was published on October 15, 1952, by Harper and Brothers. The novel tells the story of a livestock pig named Wilbur and his friendship with a barn spider named Charlotte. When Wilbur is in danger of being slaughtered by the farmer, Charlotte writes messages praising Wilbur (such as "Some Pig") in her web in order to persuade the farmer to let him live.</description>
+        <imagePath>Images/Charlottes_Web_EB_Gart_Williams.jpg</imagePath>
+    </book>
+
+    <book ISBN="9781503222687">
+        <title>Alice's Adventures in Wonderland</title>
+        <author>Lewis Carroll</author>
+        <genres>
+            <genre>Novel</genre>
+            <genre>Children's literature</genre>
+            <genre>Fantasy Fiction</genre>
+            <genre>Literary nonsense</genre>
+            <genre>Absurdist fiction</genre>
+        </genres>
+        <publisher>Penguin Group (USA)</publisher>
+        <publishedDate>1865-11-26</publishedDate>
+        <format>Paperback</format>
+        <price>500</price>
+        <description>Alice's Adventures in Wonderland (commonly shortened to Alice in Wonderland) is an 1865 novel by English author Lewis Carroll (the pseudonym of Charles Dodgson).It tells of a young girl named Alice, who falls through a rabbit hole into a subterranean fantasy world populated by peculiar, anthropomorphic creatures. It is considered to be one of the best examples of the literary nonsense genre.The tale plays with logic, giving the story lasting popularity with adults as well as with children.</description>
+        <imagePath>Images/Alices_adventures_in_wonderland.jpg</imagePath>
+    </book>
+    <book ISBN="0525478817">
+        <title>The Fault in Our Stars</title>
+        <author>John Green</author>
+        <genres>
+            <genre>Novel</genre>
+            <genre>Young adult fiction</genre>
+            <genre>Romance novel</genre>
+        </genres>
+        <publisher>Dutton Books</publisher>
+        <publishedDate>2012-01-10</publishedDate>
+        <format>Paperback</format>
+        <price>600</price>
+        <description>The Fault in Our Stars is a novel by John Green. It is his fourth solo novel, and sixth novel overall. It was published on January 10, 2012. The title is inspired by Act 1, Scene 2 of Shakespeare's play Julius Caesar, in which the nobleman Cassius says to Brutus: "The fault, dear Brutus, is not in our stars, / But in ourselves, that we are underlings." The story is narrated by Hazel Grace Lancaster, a 16-year-old girl with thyroid cancer that has affected her lungs. Hazel is forced by her parents to attend a support group where she subsequently meets and falls in love with 17-year-old Augustus Waters, an ex-basketball player and amputee.</description>
+        <imagePath>Images/The_Fault_in_Our_Stars.jpg</imagePath>
+    </book>
+
+    <book ISBN="">
+        <title></title>
+        <author></author>
+        <genres>
+            <genre></genre>
+            <genre></genre>
+        </genres>
+        <publisher></publisher>
+        <publishedDate></publishedDate>
+        <format></format>
+        <price></price>
+        <stocks></stocks>
+        <description></description>
+        <imagePath></imagePath>
+    </book>
+    
+</books>

@@ -1,0 +1,155 @@
+.cart_cont {
+    width: 100%;
+    height: fit-content;
+    box-sizing: border-box;
+    padding: 25px;
+    padding-right: 0px;
+    margin-top: 50px;
+    display: inline-block;
+}
+
+.cart_cont h1 {
+    margin: 0;
+}
+
+.cart_Display {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+}
+
+.cart-leftPart {
+    width: 70%;
+}
+
+.cart-leftPart .cart_AllItems {
+    width: 100%;
+    margin: 0px;
+}
+
+.cart-leftPart .cart_AllItems .select_all {
+    margin: 0px;
+    margin-top: 10px;
+}
+
+.cart-leftPart .cart_heading {
+    width: 100%;
+}
+
+.cart-leftPart .cart_heading .cart_heading_item {
+    float: left;
+}
+
+.cart-leftPart .cart_heading .cart_heading_subtotal {
+    float: right;
+}
+
+.cart_items {
+    width: 100%;
+    height: fit-content;
+    display: inline-block;
+}
+
+.cart_item {
+    width: 100%;
+    height: 120px;
+    margin: 3px 0px;
+    display: flex;
+    padding: 5px 0px;
+    border-top: 1px solid rgb(187, 187, 187);
+}
+
+.cart_item .item_left {
+    width: 90px;
+}
+
+.cart_item .item_left img {
+    height: 120px;
+    width: 100%;
+}
+
+.cart_item .item_right {
+    width: 60%;
+}
+
+.cart_item .item_right p {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0px 10px;
+    margin: 0;
+    font-size: 12px;
+}
+
+.cart_item .item_right .item_bookTitle {
+    font-size: 15px;
+}
+
+.cart_item .item_right .item_bookFormat {
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.cart_item .item_right .item_bookPrice {
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.cart_item .item_right .item_qty {
+    width: 100%;
+}
+
+.cart_item .item_SubTotal {
+    width: 20%;
+    text-align: right;
+    font-weight: bolder;
+}
+
+
+/* right part*/
+
+.cart-rightPart {
+    width: 30%;
+    margin-left: 10px;
+    margin-top: 12px;
+    box-sizing: border-box;
+    padding: 10px;
+    background-color: rgb(228, 228, 228);
+}
+
+.cart-rightPart .header {
+    margin-bottom: 3px;
+}
+
+.cart-rightPart .order_label {
+    display: grid;
+    padding: 5px 0px;
+    grid-template-columns: 1fr 1fr;
+    font-size: 13px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.cart-rightPart .order_label .order_left {
+    text-align: right;
+}
+
+.cart-rightPart .order_total {
+    display: grid;
+    padding: 5px 0px;
+    grid-template-columns: 1fr 1fr;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.cart-rightPart .order_total .total_left {
+    text-align: right;
+}
+
+#btnCheckOut {
+    margin-top: 100px;
+    font-size: 12px;
+    width: 100%;
+    background-color: white;
+    box-sizing: border-box;
+    height: 35px;
+}

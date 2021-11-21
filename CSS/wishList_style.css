@@ -1,0 +1,73 @@
+.wishList_cont {
+    width: 100%;
+    height: fit-content;
+    box-sizing: border-box;
+    padding: 25px;
+    display: flex;
+    margin-top: 50px;
+    display: inline-block;
+}
+
+.wishList_cont h1 {
+    margin: 0;
+}
+
+.wish_Display {
+    width: 100%;
+    height: fit-content;
+    display: flex;
+}
+
+.wish_items {
+    width: 100%;
+    height: fit-content;
+    display: inline-block;
+}
+
+.wish_item {
+    width: 100%;
+    height: 170px;
+    margin: 3px 0px;
+    display: flex;
+    padding: 5px 0px;
+    border-top: 1px solid rgb(187, 187, 187);
+}
+
+.wish_item .item_left {
+    width: 120px;
+}
+
+.wish_item .item_left img {
+    height: 170px;
+    width: 100%;
+}
+
+.wish_item .item_right {
+    width: 60%;
+}
+
+.wish_item .item_right p {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0px 10px;
+    margin: 0;
+    font-size: 12px;
+}
+
+.wish_item .item_right .item_bookTitle {
+    font-size: 15px;
+}
+
+.wish_item .item_right .item_bookFormat {
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.wish_item .item_right .item_bookPrice {
+    margin-top: 20px;
+    font-size: 16px;
+}
+
+.wish_item .item_right .item_qty {
+    width: 100%;
+}
